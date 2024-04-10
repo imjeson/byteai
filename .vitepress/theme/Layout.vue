@@ -14,9 +14,9 @@ const { page, frontmatter } = useData()
         <a class="text-xl" href="/" aria-label="The Vue Point">
           <img
             class="inline-block mr-2"
-            style="width: 36px; height: 31px"
+            style="width: 66px; height: 57px"
             alt="logo"
-            src="/logo.svg"
+            src="/public/logo.png"
           />
           <span
             v-if="!frontmatter.index"

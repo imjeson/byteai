@@ -1,0 +1,40 @@
+name: Build and Deploy to ECS
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '21'  
+
+      - name: Install pnpm
+        run: npm install -g pnpm
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build project
+        run: pnpm run build
+        env:
+          CI: true
+
+      - name: Sync files to the ECS server
+        uses: easingthemes/ssh-deploy@v2.1.5
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.ADMIN_RSA }}
+          SOURCE: ".vitepress/dist/"
+          REMOTE_HOST: "39.104.79.21"
+          REMOTE_USER: "admin"
+          REMOTE_PORT: "22"
+          TARGET: "/var/www/html/"
+          ARGS: "-avzP"
