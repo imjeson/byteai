@@ -1,5 +1,5 @@
 ---
-title: ByteAI实验室
-subtext: 探索AI前沿，ByteAI实验室是您的智能信息源泉。关注我们，深度解析AI大模型（GPT、Dalle）与AIGC趋势，洞察其创新应用，一起引领智能科技的潮流。立足现在，展望未来，开启与AI同行的探索之旅。
+title: 欢迎来到 GPTNB.com：您的GPT新闻和博客之家
+subtext: GPTNB.com 致力于成为最前沿的人工智能新闻和深度分析博客平台，专注于Generative Pre-trained Transformer（生成预训练变换器）技术及其在各个领域的应用。我们的目标是为AI爱好者、研究人员、技术专家和行业观察者提供一个集新闻、洞察和资源于一体的综合信息站点。
 index: true
 ---
