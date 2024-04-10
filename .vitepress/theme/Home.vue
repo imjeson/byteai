@@ -1,22 +1,55 @@
 <script setup lang="ts">
+import { ref, onMounted, onUnmounted, computed } from 'vue';
 import Date from './Date.vue'
 import { data as posts } from './posts.data.js'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
+import { useTodayMessage } from './TodayMessage';
+const { message } = useTodayMessage();
+
+// 定义一个响应式变量存储窗口宽度
+const windowWidth = ref(window.innerWidth);
+
+// 定义一个计算属性来判断是否为小屏设备
+const isSmallScreen = computed(() => windowWidth.value <= 768);
+
+// 更新窗口宽度
+const updateWidth = () => {
+  windowWidth.value = window.innerWidth;
+};
+
+// 在组件挂载到DOM上后添加事件监听器，并在组件卸载前移除
+onMounted(() => {
+  window.addEventListener('resize', updateWidth);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('resize', updateWidth);
+});
+
 </script>
 
 <template>
   <div class="divide-y divide-gray-200 dark:divide-slate-200/5">
     <div class="pt-6 pb-8 space-y-2 md:space-y-5">
-      <h1
+      <!-- <h1
         class="text-3xl leading-9 font-extrabold text-gray-900 dark:text-white tracking-tight sm:text-4xl sm:leading-10 md:text-6xl md:leading-14"
       >
         {{ frontmatter.title }}
-      </h1>
+      </h1> -->
+      <template v-if="isSmallScreen">
+        您的AI新闻(News)和博客(Blog)之家
+      </template>
+      <template v-else>
+        <p class="text-lg leading-7 text-gray-500 dark:text-white">
+          {{ frontmatter.subtext }}
+        </p>
+      </template>
       <p class="text-lg leading-7 text-gray-500 dark:text-white">
-        {{ frontmatter.subtext }}
+        {{ message }}
       </p>
+      
     </div>
     <ul class="divide-y divide-gray-200 dark:divide-slate-200/5">
       <li class="py-12" v-for="{ title, url, date, excerpt } of posts">
@@ -46,3 +79,4 @@ const { frontmatter } = useData()
     </ul>
   </div>
 </template>
+./TodayMessage.js
