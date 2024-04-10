@@ -27,24 +27,24 @@ const { page, frontmatter } = useData()
         <div class="text-sm text-gray-500 dark:text-white leading-5">
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://github.com/vuejs/blog"
+            href=""
             target="_blank"
             rel="noopener"
-            ><span class="hidden sm:inline">GitHub </span>Source</a
+            ><span class="hidden sm:inline">AI </span>产品</a
           >
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="/feed.rss"
-            >RSS<span class="hidden sm:inline"> Feed</span></a
+            href=""
+            >大模型<span class="hidden sm:inline"> 技术</span></a
           >
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://vuejs.org"
+            href=""
             target="_blank"
             rel="noopener"
-            >Vuejs.org →</a
+            >加入我们 →</a
           >
         </div>
       </nav>
