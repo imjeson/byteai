@@ -1,70 +1,25 @@
 ---
-title: '2022 Year In Review'
-date: 2023-01-01
-author: Evan You
-gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+title: '人工智能行业的热潮：OpenAI、Google以及法国初创企业Mistral纷纷发布前沿AI模型'
+date: 2024-04-11
+author: Jeson
 ---
 
-Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023.
+在一个备受期待的夏季活动浪潮准备阶段，**OpenAI**、**Google**以及法国人工智能初创公司**Mistral**于12小时内相继发布了其最新版的前沿AI模型。这一前所未有的发布热潮预示着行业为**OpenAI**旗下备受欢迎的聊天机器人**Chat-GPT**所依托的下一主要版本**GPT**系统的预期推出做好了准备。
 
 ---
+![GenAI应用](https://i.guim.co.uk/img/media/264114c73f82f231bb8bbbe1db70fc761c71e68b/23_92_2959_1775/master/2959.jpg?width=620&dpr=2&s=none)
+首先，距离**Nick Clegg**在伦敦一个活动上确认**Meta**自家的第三版AI模型**Llama**将在几周内发布的消息仅几小时，**Google**发布了其最先进的大型语言模型**Gemini Pro 1.5**，对普通大众开放，并提供每天最多50次请求的免费使用额度。
 
-## Recap for 2022
+紧接着，**OpenAI**发布了其自家的前沿模型**GPT-4 Turbo**的最终版本。**GPT-4 Turbo**和**Gemini Pro 1.5**都是“多模态”系统，能够接受的不仅仅是文本。每个系统都可以接受图像输入，而**Gemini**还可以接受音频和视频输入。
 
-In February 2022, we [switched Vue's default version to 3.x](./vue-3-as-the-new-default.html). The switch marked the readiness of all the official parts of the framework for v3, including a major revamp of the documentation that provides guidance on latest best practices.
+在法国凌晨时分，**Mistral**——一个由**Clegg**在**Meta** AI团队的前同事创立的AI初创公司，发布了其前沿模型**Mixtral 8x22B**。与其两个美国竞争对手不同，**Mixtral**通过一个简单的下载链接发布，文件大小为281GB：该公司与**Meta**一样采取“开源”方法，免费发布其AI系统，供任何人下载并进一步开发。
 
-We are still in a transition period for the ecosystem to move to Vue 3. So after the switch, we focused more on improving Vue's developer experience by investing in tooling. Our team members have been actively involved in the development of [Vite](https://vitejs.dev), and we made significant improvement to Vue's IDE and TypeScript support by shipping [Volar 1.0](./volar-1.0.html).
+这种做法被批评为可能带来风险，因为它让开发者无法介入阻止其系统被用于有害目的，也无法在发现并需要修复漏洞或偏见时将模型下线。然而，包括**Meta**在内的其他人则辩护说，这最终将导致比那些“掌握在少数几个加利福尼亚大公司手中”的系统更好的结果。
 
-Over the course of 2022, we saw the NPM usage of Vue 3 grew by **almost 200%**. On the community side, the Vue 3 ecosystem is now ripe with great solutions to help boost your productivity. Both [Nuxt 3](https://nuxt.com) and [Vuetify 3](https://vuetifyjs.com) reached stable status in November 2022, and [NativeScript for Vue 3](https://github.com/nativescript-vue/nativescript-vue) recently launched beta. In addition, we want to give a shout out to other great projects that had already supported Vue 3 for quite some time: [Quasar](https://quasar.dev/), [NaiveUI](https://www.naiveui.com/), [Ionic Vue](https://ionicframework.com/docs/vue/overview), [PrimeVue](https://www.primefaces.org/primevue/), [InkLine](https://www.inkline.io/), [ElementPlus](https://element-plus.org/), and [more](https://twitter.com/vuejs/status/1599706412086878208).
+据《信息》报道，**Meta**的**Llama 3**预计将最初以其较小、较弱版本发布，逐步推出公司最先进的前沿模型。然而，它可能面临激烈的竞争：据信**OpenAI**也计划在类似的时间框架内推出下一版**GPT**模型，**GPT-5**，公司首席运营官**Brad Lightcap**告诉《金融时报**它将“很快”到来。
 
-Despite Vue 3 being now the default, we understand that many users have to stay on Vue 2 due to the cost of migration. To ensure that Vue 2 users benefit from the advancement of the framework, we decided to move Vue 2's source code to TypeScript and back-ported some of the most important Vue 3 features in [Vue 2.7](./vue-2-7-naruto.html). We also made sure that Vite, Vue Devtools and Volar all simultaneously support Vue 2 and Vue 3.
+然而，专家们质疑所有前沿AI系统共享的“大型语言模型”方法是否正在达到其极限。“我们听到很多人说：‘哦，我的天哪，我们将在明年获得[人工通用智能]，’”**Meta**的首席AI科学家**Yann LeCun**回应了**xAI**创始人**Elon Musk**的一项声明。“这根本不会发生。我们有能通过律师考试的AI系统，但它们却不能清理你的晚餐桌子，也不能填满洗碗机。我们有操纵语言并让我们误以为它们很聪明的系统，但它们却不能理解世界。”
 
-## What to Expect in 2023
+**LeCun**建议，研究者需要致力于他所说的“目标驱动”的AI，这种AI具有推理和计划世界的能力，而不仅仅是单独工作于文字上。
 
-### Smaller and More Frequent Minor Releases
-
-With the last Vue 2 minor release (2.7) out of the door, we expect to be full steam ahead shipping features for Vue 3 core in 2023. We have quite a long list of features that we are excited to work on!
-
-One thing we would like to improve is our release cadence. Vue follows [semver](https://semver.org/), which means we should only ship features in minor versions. In the past, we did a "big minor" approach where we group many features together in big, infrequent minor releases. This has resulted in quite some low-complexity features being blocked while we worked on other high-complexity ones. In 2023, we want to do smaller and more frequent minor releases so that we can get more features out, faster.
-
-This also means we will be adjusting what goes into 3.3. Originally, we planned to graduate Suspense and Reactivity Transform from experimental status in 3.3. However, we feel that both still need further RFC discussion, and they should not block other more straightforward features to land. Now, the goal of 3.3 is to land proposed / planned features that are clear wins and do not require RFC discussion - for example, supporting externally imported types in `<script setup>` macros.
-
-In parallel to that, we will:
-
-1. Further evaluate the readiness of Suspense and Reactivity Transform.
-2. Spend time to evaluate outstanding user-submitted RFCs and feature requests.
-3. Post RFCs for features that we intend to land in 3.4 and beyond, for example SSR lazy hydration.
-
-Expect more details later this month.
-
-Another thing to note is there is no plan for big breaking changes for the foreseeable future. Acknowledging the challenges users faced during the v2 to v3 transition, we want to have a better long term upgrade story for Vue going forward.
-
-### Vapor Mode
-
-Vapor Mode is an alternative compilation strategy that we have been experimenting with, inspired by [Solid](https://www.solidjs.com/). Given the same Vue SFC, Vapor Mode compiles it into JavaScript output that is more performant, uses less memory, and requires less runtime support code compared to the current Virtual DOM based output. It is still in early phase, but here are some high level points:
-
-- Vapor Mode is intended for use cases where performance is the primary concern. It is opt-in and does not affect existing codebases.
-
-- At the very least, you will be able to embed a Vapor component subtree into any existing Vue 3 app. Ideally, we hope to achieve granular opt-in at the component level, which means freely mixing Vapor and non-Vapor components in the same app.
-
-- Building an app with only Vapor components allows you to drop the Virtual DOM runtime from the bundle, significantly reducing the baseline runtime size.
-
-- In order to achieve the best performance, Vapor Mode will only support a subset of Vue features. In particular, Vapor Mode components will only support Composition API and `<script setup>`. However, this supported subset will work exactly the same between Vapor and non-Vapor components.
-
-We will share more details as we make more progress later in the year.
-
-### Conferences
-
-There are already many in-person Vue conferences lined up for 2023:
-
-- [Vue.js Amsterdam](https://vuejs.amsterdam/) - Feb 9-10, Amsterdam, The Netherlands
-- [Vue.js Live](https://vuejslive.com/) - May 12 & 15th, London, UK
-- [VueConf US](https://us.vuejs.org/) - May 24-26th, New Orleans, USA
-- VueFes Japan - October 28th, Tokyo, Japan (info TBA)
-
-I (Evan) plan to attend all of these in person. After almost 3 years of absence, I can't wait to meet the community again - please come say hi!
-
-### One Year Until Vue 2 EOL
-
-As a reminder, today marks **exactly one year until the end of Vue 2 support**. We have created a page explaining the implication of this and outlining the options for those who expect to be using Vue 2 beyond the EOL date: [Details on Vue 2 EOL and Extended Support](https://v2.vuejs.org/lts/).
+他说，这种方法可能会产生真正具有超人能力的AI系统。“这更多是一个愿景而已，”他补充说，“但它正在取得指数级进展，所以我相当自信我们会达到那里。”

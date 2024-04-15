@@ -1,5 +1,6 @@
 node_modules
 dist
+script
 .vitepress/cache
 deploy.sh
 submit.sh

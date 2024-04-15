@@ -17,6 +17,13 @@ function findCurrentIndex() {
 const date = computed(() => posts[findCurrentIndex()].date)
 const nextPost = computed(() => posts[findCurrentIndex() - 1])
 const prevPost = computed(() => posts[findCurrentIndex() + 1])
+
+
+function openMOOC() {
+  // Logic to open the MOOC platform goes here
+}
+
+
 </script>
 
 <template>
@@ -64,6 +71,17 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
             <a :href="prevPost.url">{{ prevPost.title }}</a>
           </div>
         </div>
+        <div class="py-8">
+          <div class="qr-code">
+            <img src="/public/qr-code.jpg" alt="QR Code" />
+            <!-- <img class="logo" src="logo.png" alt="Logo" /> -->
+          </div>
+          <div class="content">
+            <!-- <img src="message-bubble-icon.png" alt="Message Bubble" /> -->
+            <span>微信搜一搜</span>
+            <button @click="openMOOC">MOOC云课堂</button>
+          </div>
+        </div>
         <div class="pt-8">
           <a class="link" href="/">← Back to the blog</a>
         </div>
@@ -71,3 +89,51 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
     </div>
   </article>
 </template>
+
+
+<style scoped>
+.qr-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #000;
+  padding: 16px;
+  width: 300px; /* Adjust as needed */
+}
+
+.qr-code {
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.qr-code .logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 20%; /* Adjust as needed */
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.content img {
+  max-width: 100%; /* 让图片最大宽度不超过div的宽度 */
+  height: auto; /* 保持图片的原始宽高比 */
+  display: block; /* 防止图片下方出现额外空间 */
+  margin: 0 auto; /* 图片居中显示 */
+}
+
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+</style>
