@@ -3,4 +3,3 @@ dist
 script
 .vitepress/cache
 deploy.sh
-submit.sh
