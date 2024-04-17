@@ -5,7 +5,7 @@ author: Jeson
 
 ---
 
-Hugging Face宣布推出Idefics2，这是一个多才多艺的模型，能够根据图像和文本理解和生成文本回应。![图片](https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/04/hugging-face-idefics2-model-ai-artificial-intelligence-development-visual-language-model-benchmark.jpg){ width=50% }
+Hugging Face宣布推出Idefics2，这是一个多才多艺的模型，能够根据图像和文本理解和生成文本回应。
 
 ---
 该模型在回答视觉问题、描述视觉内容、从图像创建故事、提取文档信息，甚至基于视觉输入执行算术运算方面树立了新的标杆。
@@ -25,5 +25,4 @@ Idefics2展示了一种对图像处理的精细化方法，保持原生分辨率
 
 Tags: ai, 人工智能, benchmark, hugging face, idefics 2, idefics2, Model, 视觉语言。
 
----
 ---
