@@ -12,7 +12,9 @@ export default defineConfig({
       'meta',
       {
         name: 'twitter:image',
-        content: 'https://vuejs.org/images/logo.png'
+        // content: 'https://vuejs.org/images/logo.png'
+        content: 'public/logo.png'
+
       }
     ],
     [
