@@ -1,10 +1,9 @@
-
-
 ---
----
+
 title: 'Cybernetix Ventures and PRN strategically partner'
 date: 2024-04-18
 author: Jeson
+
 ---
 
 Cybernetix Ventures is participating in the Agriculture & Robotics Summit, where agriculture market leaders are meeting with robotics innovators to solve industry pain points.
