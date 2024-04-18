@@ -48,7 +48,7 @@ onUnmounted(() => {
                 GPTNB
               </template>
               <template v-else>
-                GPTNB：您的AI新闻和博客之家
+                GPTNB：Your Home for AI News and Blogs
               </template>
             </span>
           </a>

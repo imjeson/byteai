@@ -6,7 +6,7 @@ export function useTodayMessage() {
 
   const message = computed(() => {
     const formattedDate = today.value.toISOString().split('T')[0];
-    return `今天是${formattedDate}，今天有如下AI资讯及技术你值得关注`;
+    return `${formattedDate}，今天有如下AI资讯及技术你值得关注`;
   });
 
   return { message };
