@@ -1,7 +1,7 @@
 ---
 title: 'Mixtral 8x22B sets new benchmark for open models'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

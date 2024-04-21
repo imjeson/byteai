@@ -2,7 +2,7 @@
 
 title: '比特币减产是什么 - 它会影响价格吗？'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

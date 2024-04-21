@@ -1,7 +1,7 @@
 ---
 title: 'Cybernetix Ventures and PRN strategically partner'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 Cybernetix Ventures 正在参加农业与机器人峰会，农业市场领袖正在会见机器人创新者，以解决行业痛点。

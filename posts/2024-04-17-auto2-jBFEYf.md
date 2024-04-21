@@ -1,7 +1,7 @@
 ---
 title: 'Hugging Face推出Idefics2视觉语言模型'
 date: 2024-04-17
-author: Jeson
+author: ByteAILib
 
 ---
 

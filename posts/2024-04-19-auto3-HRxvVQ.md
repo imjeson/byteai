@@ -1,7 +1,7 @@
 ---
 title: '使用 iVALT 停止 Deepfake 和社会工程电话'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 ---
 
 保护企业访问并随需验证身份

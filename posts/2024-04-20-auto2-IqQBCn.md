@@ -1,7 +1,7 @@
 ---
 title: 'Meta通过开源Llama 3 LLM提高了水平'
 date: 2024-04-21
-author: Jeson
+author: ByteAILib
 
 ---
 

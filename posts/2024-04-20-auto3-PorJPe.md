@@ -2,7 +2,7 @@
 
 title: 'Illumio简化了自动标记与AI驱动的零信任安全性'
 date: 2024-04-21
-author: Jeson
+author: ByteAILib
 
 ---
 

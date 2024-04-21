@@ -1,7 +1,7 @@
 ---
 title: 'Mixtral 8x22B sets new benchmark for open models'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 ---
 
 Mistral AI发布了Mixtral 8x22B，该模型在性能和效率方面为开放源模型设定了新的标准。![图片](https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/04/mistral-mixtral-8x22b-open-source-ai-model-artificial-intelligence.jpg){ width=50% }

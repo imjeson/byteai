@@ -1,7 +1,7 @@
 ---
 title: 'Neura Robotics and OMRON announced strategic partnership'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

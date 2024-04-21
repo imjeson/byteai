@@ -1,7 +1,7 @@
 ---
 title: 'Viam, KUKA to accelerate digital solutions in robotics & automation'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 Viam和KUKA合作加快机器人技术和自动化数字化解决方案的推进。![图片](https://ai-techpark.com/wp-content/uploads/2020/06/Buyer-Guide-500x281-1.jpg){ width=50% }

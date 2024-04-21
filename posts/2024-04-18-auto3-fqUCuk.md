@@ -2,7 +2,7 @@
 
 title: 'NeuReality launched Developer Portal for NR1 Inference Platform'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

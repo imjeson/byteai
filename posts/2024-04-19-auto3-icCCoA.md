@@ -2,7 +2,7 @@
 
 title: 'GFI将AI功能集成到四个核心产品中'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

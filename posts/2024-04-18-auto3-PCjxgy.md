@@ -1,7 +1,7 @@
 ---
 title: 'Loft Labs raises $24 Million Series A'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 资金由Khosla Ventures领导，将加速vCluster、开源云开发解决方案DevPod以及其他面向平台工程师和开发人员的工具进一步发展和采用。![图片](https://ai-techpark.com/wp-content/uploads/2020/06/Buyer-Guide-500x281-1.jpg){ width=50% }

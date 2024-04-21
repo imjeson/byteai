@@ -1,7 +1,7 @@
 ---
 title: 'Renovit使用Ivalua将供应链管理数字化'
 date: 2024-04-22
-author: Jeson
+author: ByteAILib
 ---
 
 Ivalua的Source-to-Pay平台使Renovit能够改进和简化供应链管理操作，提高透明度和效率。![图片](https://ai-techpark.com/wp-content/uploads/2024/04/Renovit-960x540.jpg){ width=60% }

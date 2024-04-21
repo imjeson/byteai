@@ -1,7 +1,7 @@
 ---
 title: 'Kinaxis welcomes Valantic to its Growing Partner Ecosystem'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 Leading European digital transformation consultants augment Kinaxis’ expanding global footprint

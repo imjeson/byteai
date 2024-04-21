@@ -2,7 +2,7 @@
 
 title: '以色列如何在加沙及其他地区使用人脸识别系统'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Loft Labs raises $24 Million Series A'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 Funding led by Khosla Ventures will accelerate further development and adoption of vCluster, open source cloud development solution DevPod, and other tools for platform engineers and developers

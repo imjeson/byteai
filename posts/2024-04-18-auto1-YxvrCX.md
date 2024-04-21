@@ -2,7 +2,7 @@
 
 title: 'Google fires 28 staff after protest against firm’s contract with Israeli government'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

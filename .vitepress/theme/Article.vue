@@ -23,6 +23,7 @@ function openMOOC() {
   // Logic to open the MOOC platform goes here
 }
 
+console.log(data)
 
 </script>
 
@@ -79,7 +80,7 @@ function openMOOC() {
           <div class="content">
             <!-- <img src="message-bubble-icon.png" alt="Message Bubble" /> -->
             <span>微信搜一搜</span>
-            <button @click="openMOOC">MOOC云课堂</button>
+            <button @click="openMOOC">ByteAI实验室</button>
           </div>
         </div>
         <div class="pt-8">

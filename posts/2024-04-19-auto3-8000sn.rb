@@ -3,7 +3,7 @@
 
 title: 'Converge Technology Solutions的GenAI与Forum Systems合作'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

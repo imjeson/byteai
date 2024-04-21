@@ -2,7 +2,7 @@
 
 title: 'Cybernetix Ventures and PRN strategically partner'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

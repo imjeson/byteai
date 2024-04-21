@@ -1,7 +1,7 @@
 ---
 title: 'Weights & Biases宣布与NVIDIA NIM集成'
 date: 2024-04-22
-author: Jeson
+author: ByteAILib
 ---
 
 Fully Connected –Weights & Biases，这家人工智能开发平台，今天宣布扩展了与NVIDIA NIM微服务的集成，以帮助企业构建定制的人工智能应用程序，并优化用于生产环境的推理。![图片](https://ai-techpark.com/wp-content/uploads/2024/04/Weights-960x540.jpg){ width=60% }

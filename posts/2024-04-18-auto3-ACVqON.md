@@ -1,7 +1,7 @@
 ---
 title: 'Intel builds Largest Neuromorphic System to Enable More Sustainable AI'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

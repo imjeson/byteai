@@ -1,7 +1,7 @@
 ---
 title: 'ABOUT Healthcare收购Edgility'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 ---
 
 ABOUT Healthcare（ABOUT®）是一家领先的提供基于SaaS的医院运营解决方案，涵盖入院管理和后急性安置的公司。![图片](https://ai-techpark.com/wp-content/uploads/2020/06/Buyer-Guide-500x281-1.jpg){ width=50% }

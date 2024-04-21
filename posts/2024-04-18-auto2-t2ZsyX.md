@@ -1,7 +1,7 @@
 ---
 title: '80% of AI decision makers are worried about data privacy and security'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Terror watchdog condemns WhatsApp for lowering UK users’ minimum age to 13'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

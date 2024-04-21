@@ -1,7 +1,7 @@
 ---
 title: 'Core Solutions launches Symptom Tracking AI'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 新的人工智能解决方案评估数据集，识别行为健康症状并将其连接到相关诊断

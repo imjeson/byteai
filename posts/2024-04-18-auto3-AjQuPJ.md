@@ -1,7 +1,7 @@
 ---
 title: 'CYE unveils results from a new study'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 Findings show accurate cyber risk quantification is crucial for organizations to better understand the potential financial consequences of cyber breaches

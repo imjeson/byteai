@@ -1,7 +1,7 @@
 ---
 title: 'Converge Technology Solutions与Forum Systems合作的GenAI伙伴关系'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 ---
 
 Converge Technology Solutions Corp.（“Converge”或“公司”）（TSX：CTS）很高兴宣布与Forum Systems达成战略合作伙伴关系，利用QuantumSim™，这是一个安全的多元LLM网关。![图片](https://ai-techpark.com/wp-content/uploads/2020/06/Buyer-Guide-500x281-1.jpg){ width=50% }

@@ -1,7 +1,7 @@
 ---
 title: 'How The Concept of Digital Twins Can Be Used Within AIOps to Develop Self-Healing Closed Loop Ecosystems'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 发现这篇引人入胜的文章中的前瞻性问题解决和无缝集成。![图片](https://ai-techpark.com/wp-content/uploads/2020/06/Buyer-Guide-500x281-1.jpg){ width=50% }

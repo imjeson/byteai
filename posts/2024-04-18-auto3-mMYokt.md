@@ -1,7 +1,7 @@
 ---
 title: 'KLDiscovery announces Major Expansion of Capabilities in ReadySuite® 8'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

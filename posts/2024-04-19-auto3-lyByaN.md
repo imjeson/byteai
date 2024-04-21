@@ -1,7 +1,7 @@
 ---
 title: 'Illumio通过自动标记和AI驱动的ZTS简化网络弹性'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 ---
 
 Illumio, Inc.，零信任分段（ZTS）公司，今天宣布其ZTS平台推出了几项新的AI和自动化功能，包括自动标记，使组织更容易更快地保护混合环境并简化他们迈向零信任的旅程。![图片](https://ai-techpark.com/wp-content/uploads/2020/06/Buyer-Guide-500x281-1.jpg){ width=50% }

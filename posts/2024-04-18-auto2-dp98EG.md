@@ -1,7 +1,7 @@
 ---
 title: 'Samsung aims to boost on-device AI with LPDDR5X DRAM'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

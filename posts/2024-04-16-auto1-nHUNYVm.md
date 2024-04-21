@@ -1,7 +1,7 @@
 ---
 title: 'TechScape: How cheap, outsourced labour in Africa is shaping AI English'
 date: 2024-04-16
-author: Jeson
+author: ByteAILib
 ---
 
 We’re witnessing the birth of AI-ese, and it’s not what anyone could have guessed. Let’s delve deepe

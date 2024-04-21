@@ -1,7 +1,7 @@
 ---
 title: 'SAS旨在通过打包AI模型，使AI技术无论技能水平如何都能轻松访问'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 SAS，作为数据和人工智能解决方案的专家，推出了一种旨在帮助组织直面业务挑战的“颠覆性方法”。![图片](https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/04/possessed-photography-jIBMSMs4_kA-unsplash.jpg){ width=50% }

@@ -1,7 +1,7 @@
 ---
 title: '关于 Healthcare 收购 Edgility'
 date: 2024-04-22
-author: Jeson
+author: ByteAILib
 
 ---
 

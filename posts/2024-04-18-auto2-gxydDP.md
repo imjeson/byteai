@@ -1,7 +1,7 @@
 ---
 title: 'SAS旨在通过打包的AI模型，使AI技术不论技能水平如何都能获得'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

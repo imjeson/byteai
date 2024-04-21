@@ -1,7 +1,7 @@
 ---
 title: 'SAS致力于通过打包的AI模型使AI无论技能水平都易于访问'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 
 ---
 

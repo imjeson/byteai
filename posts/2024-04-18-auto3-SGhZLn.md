@@ -1,7 +1,7 @@
 ---
 title: 'KLDiscovery announces Major Expansion of Capabilities in ReadySuite® 8'
 date: 2024-04-18
-author: Jeson
+author: ByteAILib
 ---
 
 KLDiscovery的多用途软件Load Files经历了重大升级，包括增强了从常见消息平台收集聊天数据和RSMF功能的支持。

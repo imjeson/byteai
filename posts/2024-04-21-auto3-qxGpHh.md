@@ -1,7 +1,7 @@
 ---
 title: 'GitLab宣布GitLab Duo Chat的正式推出'
 date: 2024-04-22
-author: Jeson
+author: ByteAILib
 ---
 
 Chat通过一个便捷易用的自然语言聊天界面，将人工智能无缝集成到软件开发中，优化了DevSecOps工作流程，提升了生产力。![图片](https://ai-techpark.com/wp-content/uploads/2024/04/GitLab-960x540.jpg){ width=60% }

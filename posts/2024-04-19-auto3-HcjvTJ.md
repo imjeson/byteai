@@ -1,7 +1,7 @@
 ---
 title: 'Vercara推出UltraEdge™以改善并保护在线体验'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 ---
 
 Award-winning CDN combines performance with security to deliver fast website performance, enhanced edge functionality, integrated security, and dynamic image optimization  

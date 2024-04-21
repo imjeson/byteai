@@ -2,7 +2,7 @@
 
 title: 'GitLab宣布GitLab Duo Chat全面可用'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 

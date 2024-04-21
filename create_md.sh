@@ -11,7 +11,7 @@ cat << EOF > ./posts/$filename
 ---
 title: ''
 date: $current_date
-author: Jeson
+author: ByteAILib
 ---
 
 content

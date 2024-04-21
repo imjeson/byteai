@@ -1,7 +1,7 @@
 ---
 title: '人工智能行业的热潮：OpenAI、Google以及法国初创企业Mistral纷纷发布前沿AI模型'
 date: 2024-04-11
-author: Jeson
+author: ByteAILib
 ---
 
 在一个备受期待的夏季活动浪潮准备阶段，**OpenAI**、**Google**以及法国人工智能初创公司**Mistral**于12小时内相继发布了其最新版的前沿AI模型。这一前所未有的发布热潮预示着行业为**OpenAI**旗下备受欢迎的聊天机器人**Chat-GPT**所依托的下一主要版本**GPT**系统的预期推出做好了准备。

@@ -4,7 +4,7 @@
 
 title: 'Kinaxis欢迎Valantic加入其不断壮大的伙伴生态系统'
 date: 2024-04-20
-author: Jeson
+author: ByteAILib
 
 ---
 
