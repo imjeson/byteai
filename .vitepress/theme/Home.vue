@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted, computed } from 'vue';
+import QRCode from './utils/QRCode.vue';
 import Date from './Date.vue'
 import { data as posts } from './posts.data.js'
 import { useData } from 'vitepress'
@@ -19,13 +20,36 @@ const updateWidth = () => {
   windowWidth.value = window.innerWidth;
 };
 
+const showQR = ref(false);  // State to toggle QR code visibility
+
+// 定义一个响应式变量存储窗口滚动位置
+const lastScrollTop = ref(0);  // Last scroll position
+const stickTop = ref(false);  // State to manage sticky behavior
+const showTopMessage = ref(true); // 控制顶部消息显示的状态
+
+const handleScroll = () => {
+  const st = window.scrollY || document.documentElement.scrollTop;
+  if (st > lastScrollTop.value) {
+    stickTop.value = true;
+  } else {
+    stickTop.value = false;
+  }
+  lastScrollTop.value = st <= 0 ? 0 : st; // For Mobile or negative scrolling
+};
+
+const handleClose = () => {
+  showTopMessage.value = false; // 关闭顶部消息
+};
+
 // 在组件挂载到DOM上后添加事件监听器，并在组件卸载前移除
 onMounted(() => {
   window.addEventListener('resize', updateWidth);
+  window.addEventListener('scroll', handleScroll); // 添加滚动事件监听器
 });
 
 onUnmounted(() => {
   window.removeEventListener('resize', updateWidth);
+  window.removeEventListener('scroll', handleScroll); // 移除滚动事件监听器
 });
 
 </script>
@@ -39,15 +63,31 @@ onUnmounted(() => {
         {{ frontmatter.title }}
       </h1> -->
       <template v-if="isSmallScreen">
-        您的AI新闻(News)和博客(Blog)之家
+        GPTNB：前沿AI资讯与深度分析平台 
+        <!-- 浮动按钮 -->
+        <button @click="showQR = !showQR" class="fixed bottom-10 right-10 bg-blue-500 text-white p-2 rounded-full z-10">
+          扫一扫知AI天下事
+        </button>
+        <!-- 二维码模态框 -->
+        <div v-if="showQR" class="fixed bottom-20 right-10 p-2 bg-white border rounded shadow-lg">
+          <QRCode value="http://imoocc.com" />
+          <button @click="showQR = false" class="text-sm text-gray-600 hover:text-gray-800">
+            ×
+          </button>
+        </div>
       </template>
       <template v-else>
         <p class="text-lg leading-7 text-gray-500 dark:text-white">
           {{ frontmatter.subtext }}
         </p>
       </template>
-      <p class="text-lg leading-7 text-gray-500 dark:text-white">
+      <!-- <p class="text-lg leading-7 text-gray-500 dark:text-white fixed top-0 left-0 right-0 z-20 bg-white" style="padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"> -->
+      <p v-if="showTopMessage" :class="['text-lg leading-7 text-gray-500 dark:text-white', { 'fixed-top-message': stickTop }]">
+        <!-- <p class="text-lg leading-7 text-gray-500 dark:text-white"> -->
         {{ message }}
+        <button @click="handleClose" class="close-button">
+            ×
+        </button>
       </p>
       
     </div>
@@ -85,3 +125,31 @@ onUnmounted(() => {
 </template>
 ./TodayMessage.js
 
+<style scoped>
+.fixed-top-message {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 20;
+}
+
+.close-button {
+  float: right;
+  font-size: 1.5rem;
+  line-height: 1rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0 8px;
+  color: #666;
+}
+
+.close-button:hover {
+  color: #333;
+}
+
+</style>
