@@ -29,3 +29,8 @@ Viam创始人兼首席执行官Eliot Horowitz表示：“通过KUKA的机械臂�
 
 要了解更多有关合作和Viam解决方案的信息，请联系 sales@viam.com。
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

@@ -11,3 +11,8 @@ Ivalua是全球支出管理领域的领导者，PwC意大利今天宣布Renovit�
 
 ---
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

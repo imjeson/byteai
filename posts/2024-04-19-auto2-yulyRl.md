@@ -27,3 +27,8 @@ Mixtral 8x22B作为一种稀疏的专家混合(Sparse Mixture-of-Experts, SMoE)�
 
 tags: 8x22b, ai, 人工智能, development, mistral ai, mixtral, 模型, 开源源码
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

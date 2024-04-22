@@ -25,3 +25,8 @@ ABOUT收购Edgility之前先后收购了Acuity Link和Ensocare，进一步表明
 
 ---
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

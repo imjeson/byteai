@@ -26,3 +26,8 @@ Idefics2展示了一种对图像处理的精细化方法，保持原生分辨率
 Tags: ai, 人工智能, benchmark, hugging face, idefics 2, idefics2, Model, 视觉语言。
 
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

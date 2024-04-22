@@ -28,3 +28,8 @@ ReadySuite 8中的关键升级和功能包括：
 
 探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻的最新进展，并获取行业专家的深入见解！
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

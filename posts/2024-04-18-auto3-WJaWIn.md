@@ -27,3 +27,8 @@ Cybernetix成立于2021年，与全球各地的机器人集群合作，将最具
 
 注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Makedown源文件格式内容。
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

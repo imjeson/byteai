@@ -31,3 +31,8 @@ Hala Point通过多项改进，不断进步自己的前身Pohoiki Springs，将�
 
 探索AITechPark，了解人工智能、物联网、网络安全、AI科技新闻以及行业专家的深刻见解！
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

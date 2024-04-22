@@ -22,3 +22,8 @@ Sglavo表示：“SAS模型为组织提供了灵活、及时、可访问的AI，
 今天的公告是在SAS Innovate上发布的，这是面向业务领导者、技术用户和SAS合作伙伴的数据和人工智能体验。通过关注@SASsoftwareNews上的最新消息，了解来自SAS的最新消息。
 探索AITechPark，了解人工智能，物联网，网络安全，AI技术新闻和行业专家的见解的最新进展！
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

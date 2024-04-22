@@ -14,3 +14,8 @@ Explore AITechPark for the latest advancements in AI, IOT, Cybersecurity, AITech
 
 ---
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

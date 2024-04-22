@@ -42,3 +42,8 @@ Meta表示，公司已采取“系统级方法”来开发和部署负责任AI�
 
 但是，就在Mistral AI创立了Mixtral 8x22B开源模型的全新基准的一天之后，Meta的发布再次提高了可公开获得的LLMs的标准。
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

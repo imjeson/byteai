@@ -21,3 +21,8 @@ Symptom Tracking还嵌入在Cx360 EHR中，为Core高度可配置的EHR用户提
 
 探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及来自行业专家的见解更新！
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

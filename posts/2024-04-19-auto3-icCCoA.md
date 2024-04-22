@@ -21,3 +21,8 @@ GFI Software的首席执行官埃里克·沃恩（Eric Vaughan）表示：“这
 浏览 AITechPark 了解最新的AI、IOT、网络安全、AI技术新闻以及来自行业专家的深刻更新！
 
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

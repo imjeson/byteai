@@ -18,3 +18,8 @@ UltraEdge有三种综合套餐可供选择 – 专业版、企业版和高级版
 UltraEdge可以与Vercara的UltraDNS和UltraDNS2（权威管理DNS）、UltraDDoS Protect（基础设施DDoS保护）以及UltraDDR（用于用户威胁防范的保护性DNS）结合使用。有关Vercara强大云端解决方案系列的更多信息，请访问vercara.com。  
 注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Makedown源文件格式内容。
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

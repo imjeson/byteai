@@ -38,3 +38,8 @@ Weights & Biases与NVIDIA NIM之间的这一新集成将使企业开发人员能
 
 Weights & Biases人工智能开发平台可以与NVIDIA微服务无缝集成，开发人员也可以在ai.nvidia.com上进行实验。对于希望部署产品级NIM微服务的企业，可以通过在领先的云平台上使用NVIDIA AI Enterprise进行访问，确保在Weights & Biases生态系统内提供增强性能和兼容性。
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。

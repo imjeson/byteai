@@ -20,3 +20,8 @@ HubHead将向工程公司、系统集成商（SIs）、EPC公司、资产密集�
 
 ---
 ---
+
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
+---
+感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
