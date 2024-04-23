@@ -46,9 +46,9 @@ author: ByteAILab
 
 ---
 
-图片来源：由无界AI生成
+图片来源：由GPTNB生成
 
-![图片来源：由无界AI生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713839660554/FmkpwrqV9HDOi_2BEh76Kmdp26NA.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713839660554/FmkpwrqV9HDOi_2BEh76Kmdp26NA.png)
 
 ![OceanBase CTO 杨传辉](http://www.jesonc.com/FnegphK5mapOdj5his3EZvdo4plW)
 

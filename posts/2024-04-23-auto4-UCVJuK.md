@@ -7,7 +7,7 @@ author: ByteAILab
 
 文章来源：[AIGC开放社区](https://mp.weixin.qq.com/s/pTyZc-EgWSt6fZX6DE2Kjg)
 
-![图片来源：由无界AI生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713836180660/Fq_cX_bs16t7gw9m9fV99fv989rF.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713836180660/Fq_cX_bs16t7gw9m9fV99fv989rF.png)
 
 贝勒大学经济学院的Pham Hoang Van和Scott Cunningham两位教授，基于OpenAI的GPT-3.5、GPT-4深度研究了大模型对事情的预测能力。
 

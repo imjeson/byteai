@@ -13,7 +13,7 @@ author: ByteAILab
 
 ---
 
-图片1: [图片来源：由无界AI生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713758917608/FiaQv0zejrXGPpKDKAyZ4JKVHxyA.png)
+图片1: [图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713758917608/FiaQv0zejrXGPpKDKAyZ4JKVHxyA.png)
 
 ---
 
