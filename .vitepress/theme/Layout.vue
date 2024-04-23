@@ -26,6 +26,7 @@ onMounted(() => {
 onUnmounted(() => {
   window.removeEventListener('resize', updateWidth);
 });
+
 </script>
 
 <template>
@@ -63,23 +64,29 @@ onUnmounted(() => {
             href=""
             target="_blank"
             rel="noopener"
-            ><span class="hidden sm:inline">AI </span>产品</a
+            ><span class="hidden sm:inline">AI</span>体验</a
           >
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
             href=""
-            >大模型<span class="hidden sm:inline"> 技术</span></a
+            >AI模型</a
           >
           <span class="mr-2 ml-2">·</span>
-          <a
+          <!-- <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
             href=""
             target="_blank"
             rel="noopener"
             >加入我们 →</a
-          >
+          > -->
+          <DropdownMenu title="发现更多">
+            <a href="/page1">页面 1</a>
+            <a href="/page2">页面 2</a>
+            <a href="/page3">页面 3</a>
+          </DropdownMenu>
         </div>
+
       </nav>
     </div>
     <main class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">

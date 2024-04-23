@@ -22,6 +22,14 @@ const updateWidth = () => {
 
 const showQR = ref(false);  // State to toggle QR code visibility
 
+const randomColor = () => {
+  // 生成随机颜色
+  return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
+};
+
+// 设置按钮背景颜色的响应式引用
+const buttonBgColor = ref(randomColor());
+
 // 定义一个响应式变量存储窗口滚动位置
 const lastScrollTop = ref(0);  // Last scroll position
 const stickTop = ref(false);  // State to manage sticky behavior
@@ -45,6 +53,8 @@ const handleClose = () => {
 onMounted(() => {
   window.addEventListener('resize', updateWidth);
   window.addEventListener('scroll', handleScroll); // 添加滚动事件监听器
+  // 页面加载时设置随机颜色
+  buttonBgColor.value = randomColor();
 });
 
 onUnmounted(() => {
@@ -65,7 +75,7 @@ onUnmounted(() => {
       <template v-if="isSmallScreen">
         GPTNB：前沿AI资讯与深度分析平台 
         <!-- 浮动按钮 -->
-        <button @click="showQR = !showQR" class="fixed bottom-10 right-10 bg-blue-500 text-white p-2 rounded-full z-10">
+        <button @click="showQR = !showQR" :style="{ backgroundColor: buttonBgColor,fontSize: '70%'}" class="fixed bottom-10 right-10 bg-blue-500 text-white p-2 rounded-full z-10">
           扫一扫知AI天下事
         </button>
         <!-- 二维码模态框 -->
