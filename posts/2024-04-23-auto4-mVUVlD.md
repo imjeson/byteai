@@ -48,10 +48,10 @@ author: ByteAILab
 
 图片来源：由无界AI生成
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713839660554/FmkpwrqV9HDOi_2BEh76Kmdp26NA.png)
+![图片来源：由无界AI生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713839660554/FmkpwrqV9HDOi_2BEh76Kmdp26NA.png)
 
-![OceanBase CTO 杨传辉](https://appserversrc.8btc.cn/FnegphK5mapOdj5his3EZvdo4plW)
+![OceanBase CTO 杨传辉](http://www.jesonc.com/FnegphK5mapOdj5his3EZvdo4plW)
 
-![图片来源](https://appserversrc.8btc.cn/FpijIJeUoYTkVt9dlGZIWpY4U9sr)
+![图片来源](http://www.jesonc.com/FpijIJeUoYTkVt9dlGZIWpY4U9sr)
 ---
 感谢阅读！如果您对AI的更多资讯，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

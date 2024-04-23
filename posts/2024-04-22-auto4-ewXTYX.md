@@ -13,7 +13,7 @@ author: ByteAILab
 
 ---
 
-图片1: [图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713758917608/FiaQv0zejrXGPpKDKAyZ4JKVHxyA.png)
+图片1: [图片来源：由无界AI生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713758917608/FiaQv0zejrXGPpKDKAyZ4JKVHxyA.png)
 
 ---
 
@@ -21,7 +21,7 @@ author: ByteAILab
 
 ---
 
-图片2: [图源 / kimi.ai官网截图](https://appserversrc.8btc.cn/FjVTZ6iIa6S-FWGykWHuqGUK1s5S)
+图片2: [图源 / kimi.ai官网截图](http://www.jesonc.com/FjVTZ6iIa6S-FWGykWHuqGUK1s5S)
 
 ---
 
@@ -29,7 +29,7 @@ author: ByteAILab
 
 ---
 
-图片3: [图源 / kimi.ai官网截图](https://appserversrc.8btc.cn/FjVTZ6iIa6S-FWGykWHuqGUK1s5S)
+图片3: [图源 / kimi.ai官网截图](http://www.jesonc.com/FjVTZ6iIa6S-FWGykWHuqGUK1s5S)
 
 ---
 
@@ -37,7 +37,7 @@ author: ByteAILab
 
 ---
 
-图片4: [图源 / 零一万物官网](https://appserversrc.8btc.cn/Fq_5PsxFJjBaMbhyfLry046JFl_o)
+图片4: [图源 / 零一万物官网](http://www.jesonc.com/Fq_5PsxFJjBaMbhyfLry046JFl_o)
 
 ---
 

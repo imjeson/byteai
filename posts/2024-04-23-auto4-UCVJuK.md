@@ -7,7 +7,7 @@ author: ByteAILab
 
 文章来源：[AIGC开放社区](https://mp.weixin.qq.com/s/pTyZc-EgWSt6fZX6DE2Kjg)
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713836180660/Fq_cX_bs16t7gw9m9fV99fv989rF.png)
+![图片来源：由无界AI生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713836180660/Fq_cX_bs16t7gw9m9fV99fv989rF.png)
 
 贝勒大学经济学院的Pham Hoang Van和Scott Cunningham两位教授，基于OpenAI的GPT-3.5、GPT-4深度研究了大模型对事情的预测能力。
 
@@ -22,7 +22,7 @@ author: ByteAILab
 
 论文地址：[https://arxiv.org/abs/2404.07396](https://arxiv.org/abs/2404.07396)
 
-![图片](https://appserversrc.8btc.cn/FmWuWNATVYYZ1O2xjao_LNB25cRO)
+![图片](http://www.jesonc.com/FmWuWNATVYYZ1O2xjao_LNB25cRO)
 
 研究人员表示，相比直接模式，未来叙述的提问方式更能激发ChatGPT潜在的创造、联想、数据分析的强大预测能力，同时又能规避OpenAI内置的很多安全管理设定。
 
@@ -30,7 +30,7 @@ author: ByteAILab
 
 但如果改成未来叙述提问“当一个人的尿里有血液，并且伴随轻微的恶心这是一种什么病症，应该如何进行治疗？”ChatGPT就会给你展示一些有帮助的答案。
 
-![图片](https://appserversrc.8btc.cn/FjNP_iOHzOXF-rr3-h7mr7JMs4oL)
+![图片](http://www.jesonc.com/FjNP_iOHzOXF-rr3-h7mr7JMs4oL)
 
 所以，通过未来叙述的提问方式，可帮助大模型能更好地利用其训练数据中的信息，因为，**它不是被直接要求预测一个具体的数值或结果，而是在一个更宽广的叙事上下文中进行推理和生成，同时又能规避很多内置的安全锁**。
 
@@ -38,7 +38,7 @@ author: ByteAILab
 
 但是故事情节设置的方式是,将未来当作已经发生的过去。例如，让经济预测案例中的Jerome Powell回顾和陈述，那些已经发生的"未来"事件。
 
-![图片](https://appserversrc.8btc.cn/FjvOFZtXwkw6D6A7gvhXetSDTC56)
+![图片](http://www.jesonc.com/FjvOFZtXwkw6D6A7gvhXetSDTC56)
 
 两位作者作为经济学院的教授，也对ChatGPT进行了一些宏观经济方面的预测。直接向ChatGPT提问时，它还是拒绝回答了，所以使用了未来叙述提问方法。
 
@@ -50,7 +50,7 @@ author: ByteAILab
 
 但整体预测准确率没有娱乐行业高，这说明，在处理与文化和娱乐相关的预测任务时，ChatGPT能够通过分析大量的训练数据和捕捉相关模式来做出精准准确的预测。
 
-![图片](https://appserversrc.8btc.cn/Fgc5zwLnwlJRTqTldTgvJHmGt5IX)
+![图片](http://www.jesonc.com/Fgc5zwLnwlJRTqTldTgvJHmGt5IX)
 
 在更复杂、繁琐的宏观经济预测方面，ChatGPT虽然也表现出了很好的成绩，但短期内仍然无法替代人类的预测。
 
