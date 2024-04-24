@@ -9,7 +9,7 @@ author: ByteAILab
 文章来源：[钛媒体AGI](https://mp.weixin.qq.com/s/rJJZmP8oUz9_Yu472zJbyg)  
 作者｜林志佳  
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713922237345/FvMjqVwbtHxwl1yLof6BvNn7hMCV.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1713922237345/FvMjqVwbtHxwl1yLof6BvNn7hMCV.png)
 
 1、今天下午我在上海临港的商汤技术开放日活动期间，国内AI领域出现一则新的“吃瓜”消息，引发一阵讨论。  
 
@@ -20,7 +20,7 @@ author: ByteAILab
 
 3、简单来说，这则消息引发关注的点主要有两层：一个是杨植麟在投资人面前套现了数亿元人民币，被投资人发现后，向媒体表达不满；二是，月之暗面才成立一年多，创始人就套现，投资人告诉媒体，“公司成立第一年就套现这么多，这种情况并不多见”。  
 
-![月之暗面创始人 CEO杨植麟](https://appserversrc.8btc.cn/Fl5Itzwei4nTFgEGrADmrh9dN58M)
+![月之暗面创始人 CEO杨植麟](http://www.jesonc.com/Fl5Itzwei4nTFgEGrADmrh9dN58M)
 
 4、从各种角度看，我首先相信月之暗面的官方回应。月之暗面除了向钛媒体AGI表达上述“消息不实”外，还给我发了一则招聘文章说明，里面提到：“在月之暗面，我们深知每一位员工的价值和潜力。为了吸引并留住最优秀的人才，我们自豪地宣布推出全新的员工激励计划，为优秀人才提供匹配其贡献的丰厚回报从今年开始，我们将在公司取得重要进展时发起员工期权回购计划，确保团队成员能够分享公司发展的果实（2024年底启动首次期权回购计划）。每年定期根据工作表现进行调薪和期权增发，确保薪酬和期权充分反映出员工个人的成长和贡献。  
 
