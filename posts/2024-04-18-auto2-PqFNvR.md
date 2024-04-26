@@ -34,4 +34,4 @@ Profi补充说：“关键在于确定能够以可持续和可扩展方式提供
 ---
 感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
 ---
-感谢阅读！如果您对AI的更多资讯，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

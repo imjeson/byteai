@@ -33,7 +33,7 @@ onUnmounted(() => {
   <div class="antialiased dark:bg-slate-900">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
       <nav class="flex justify-between items-center py-10 font-bold">
-          <a class="text-xl flex items-center" href="/" aria-label="The Vue Point">
+          <a class="text-xl flex items-center" href="/" aria-label="Your Home for AI News and Blogs">
             <img
               class="inline-block mr-2"
               style="width: 66px; height: 57px"
@@ -43,7 +43,7 @@ onUnmounted(() => {
             <!-- <span
               v-if="!frontmatter.index"
               class="hidden md:inline dark:text-white"
-            >The Vue Point</span> -->
+            >Your Home for AI News and Blogs</span> -->
             <span>
               <template v-if="isSmallScreen">
                 GPTNB

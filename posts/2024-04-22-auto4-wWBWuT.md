@@ -86,4 +86,4 @@ Thomvest Ventures 董事总经理 Umesh Padval 将 AI整体投资的缩减，归
 
 市场调研机构Counterpoint指出，受惠于来自英伟达AI GPU的强劲需求，台积电的5nm产能利用率已达满负荷。持续强劲的先进芯片需求，尤其是用于AI领域的芯片需求，对短期和长期而言都是积极信号。
 ---
-感谢阅读！如果您对AI的更多资讯，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

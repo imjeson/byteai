@@ -82,4 +82,4 @@ author: ByteAILab
 
 3月19日，在英伟达的 GTC 大会上，除了超级芯片 GB200，英伟达还推出了一款用于机器人领域的通用基础大模型 Project GR00T（Generalist Robot 00 Technology，通用机器人技术00）。这个名为格鲁特的模型通过广泛的学习多模态的知识，希望可以做到
 ---
-感谢阅读！如果您对AI的更多资讯，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

@@ -27,4 +27,4 @@ Saad 表示：“农业领域的新用例和机器人创新的整体必要性加
 ---
 感谢阅读！如果您对AI的最新发展感兴趣，可以查看更多AI文钊文章：[GPTNB](https://gptnb.com)。
 ---
-感谢阅读！如果您对AI的更多资讯，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

@@ -7,7 +7,7 @@ const baseUrl = `https://blog.vuejs.org`
 
 export async function genFeed(config: SiteConfig) {
   const feed = new Feed({
-    title: 'The Vue Point',
+    title: 'Your Home for AI News and Blogs',
     description: 'The official blog for the Vue.js project',
     id: baseUrl,
     link: baseUrl,
