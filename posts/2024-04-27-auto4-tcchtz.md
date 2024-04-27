@@ -1,0 +1,58 @@
+---
+title: '速递｜谷歌市值暴涨 3000 亿！CEO 宣布 700 亿回购计划/马斯克 xAI 拿到红杉美国等机构 60 亿投资！最新估值 180 亿'
+date: 2024-04-28
+author: ByteAILab
+
+---
+
+文章来源：有新Newin
+
+![](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1714094266318/FjSvda1v2b1aSA9jyz0zmH9_LwrV.png)
+
+[速递｜谷歌市值暴涨 3000 亿美元！谷歌云以及广告收入加速增长，CEO 宣布了 700 亿美元回购计划](https://mp.weixin.qq.com/s/OaF-x2VDoNsEVep-aO9LlQ)
+
+4 月 25 日周四美股盘后，Google 发布了 2024 年一季度财报，整体收入为 805 亿美元，同比增长 15%，净利润为 237 亿美元（增长 57%），调整后 EPS 1.89美元，远超预期的1.53美元，较上年同期的1.17美元同比激增 61.5%。
+
+![](https://appserversrc.8btc.cn/Fnsg9sUs3cFNzKOElC3B4mBue3aY)
+
+除了谷歌云的表现之外，员工数量的减少也可能是该季度获胜的原因之一。
+
+---
+ 报告称，员工人数减少 5%，至 180895 名。
+
+由于广告和云收入均提速增长，各项指标全面超预期，Google 还宣布了首次股息（每股 20 美分）以及 700 亿美元的股票回购计划，谷歌股价盘后一度涨超16%至历史新高，激增约 3000 亿美元。
+
+![](https://appserversrc.8btc.cn/FppcsaAw0eW8KICjyPH4erUN3bmc)
+
+受对依赖云基础设施、服务和应用程序的生成式 AI 工具的需求的推动，2024 年第一季度 Google Cloud 收入增长了 28%，达到 95.7 亿美元。
+
+此外，谷歌搜索和其他收入在第一财季增长了 14.4%，达到 461.5 亿美元。 YouTube 收入同比增长 20%，达到 80.9 亿美元。
+
+其他业务（包括该公司的自动驾驶汽车子公司 Waymo）第一季度收入增长 72%，达到 4.95 亿美元，但亏损 10.2 亿美元。
+
+整体来说，Google 收入的同比加速增长。分析师普遍认为，将生成式 AI 集成到产品中产生的 AI 需求不断增长，可能会在未来几个季度持续提振其云业务收入。同时，搜索 和 YouTube主导的广告收入也在随着行业趋势不断改善。
+
+AI 投资方面，Google 第一季度的资本支出为 120 亿美元，较预期多出 17 亿美元，Google 表示，研究人员们针对大语言模型 Gemini 取得迅猛进展，资本开支增加，体现出在基建的投资。谷歌正开始将 AI 概览部署到主要的搜索页面。
+
+CEO Sundar Pichai 表示，到 2024 年底两部门营收超1000亿美元， 去年，这两个部门的综合收入为 645.9 亿美元，其中谷歌云收入达 330.8 亿美元，YouTube 收入达 315.1 亿美元。
+
+[速递｜马斯克 xAI 拿到红杉美国等机构 60 亿美元投资！最新估值 180 亿美元](https://mp.weixin.qq.com/s/_V5vvPS0x4PMSQxcv7h2Zg)
+
+根据外媒 Information 消息，马斯克的 xAI 正在筹集 60 亿美元，最新估值 180 亿美元，红杉资本是参与 xAI 轮融资的投资者之一，预计将在未来两周内完成，其他潜在投资者还包括先前传闻的 Steve Jurvetson 以及风险投资公司 Gigafund。
+
+据悉，新一轮融资规模是 xAI 今年早些时候与[投资者讨论的融资规模的两倍](http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&amp;mid=2247491729&amp;idx=1&amp;sn=58c07702bc1f2626c4cc8fb5a09c5fd5&amp;chksm=cecbcbebf9bc42fd7caeae92b74947e98b2dbed07120b90c5eab97b44c44a3263f1d541f490e&amp;scene=21#wechat_redirect)。去年 12 月，该公司披露计划在主要由马斯克支持的另一轮融资中筹集 10 亿美元。
+
+马斯克于 2023 年初推出了 xAI，并于去年 12 月向 X 上的高级订阅者发布了聊天机器人 Grok。据马斯克介绍，xAI 目前正在 20000 个 Nvidia H100 上训练第二代 Grok。
+
+在本月 Twitter Spaces 上，马斯克还表示他们最终需要 10 万 个 GPU 来训练 Grok 3.0，xAI 还一直专注于招聘工程师，在过去几个月从特斯拉挖走了几名顶级工程师。
+
+早在 2021 年，红杉美国开始开始投资 OpenAI，投资人们纷纷给出了 200 亿美元估值购买了股票，目前 OpenAI 的估值约为 ARR 的 54 倍。
+
+红杉也是马斯克旗下 SpaceX 的投资者，此前还帮助马斯克以 440 亿美元收购 Twitter（现称为 X）。其他 SpaceX 投资方 还包括 Valor Equity Partners 和 Vy Capital，Antonio Gracias 领导的Valor是特斯拉和 SpaceX 的首批投资者之一，Vy Capital 投资了马斯克收购的 Twitter，或许也会成为 xAI 新一轮的投资方。
+
+Reference：
+
+- [https://www.theinformation.com/articles/musks-xai-is-close-to-raising-6-billion-from-sequoia-others?rc=z9mejq](https://www.theinformation.com/articles/musks-xai-is-close-to-raising-6-billion-from-sequoia-others?rc=z9mejq)
+---
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
