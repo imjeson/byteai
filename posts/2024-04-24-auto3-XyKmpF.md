@@ -1,0 +1,26 @@
+---
+title: 'Critical Start将推出OT的Critical Start MDR服务'
+date: 2024-04-25
+author: ByteAILab
+
+---
+
+Today, Critical Start, a leading provider of Managed Detection and Response (MDR) cybersecurity solutions and pioneer of Managed Cyber Risk Reduction (MCRR), announced the upcoming availability of Critical Start Managed Detection and Response (MDR) services for Operational Technology (OT).![图片](https://ai-techpark.com/wp-content/uploads/2024/04/Critical-960x540.jpg){ width=60% }
+
+---
+ A critical area of risk for industrial organizations, OT is another component of Critical Start’s Managed Cyber Risk Reduction strategy. MCRR combines threat, vulnerability, and risk monitoring and management so organizations can have a strategic, data-driven, risk-based approach to their security program.
+Critical Start MDR for OT is a comprehensive and flexible service that combines OT-specific threat detection capabilities with the ability to leverage a customer’s existing infrastructure and tools by ingesting security-relevant logs to address the unique challenges faced by industrial organizations. Dedicated OT security tools like Dragos, Claroty, Nozomi, etc. are supported but not a prerequisite for this service.
+With threat actors constantly upping their tactics against industrial organizations, cyber incidents against these organizations and their OT environments have become increasingly common. As a result, there is a growing necessity for comprehensive security monitoring and threat detection solutions that provide increased visibility into these environments. Unfortunately, many organizations lack the resources, tools, and personnel to effectively monitor and detect threats within their OT environments and industrial operations around the clock.
+Critical Start MDR for OT aims to address these challenges by providing predictable, flat-rate pricing for 24x7x365 threat monitoring, detection, and response, enabling industrial organizations to reduce financial and operational risks targeting their environments, whether through unintended operational changes, cyberattacks against OT systems directly, or attacks originating from the IT network that impact the OT environment. Environment-specific rules of engagement define what level and type of response is performed by Critical Start Risk & Security Operations Center (RSOC) personnel to further ensure the integrity of industrial operations.
+Additionally, the Critical Start Cyber Operations Risk & Response™ platform will provide visibility and threat detection across both IT and OT environments, reducing the burden on internal teams by addressing the growing complexity of managing and securing IT/OT environments.
+“It’s become increasingly apparent that industrial firms and their OT environments are not only extremely susceptible to cyber-attacks but are also under resourced for continuous monitoring of their growing cyber risks. Until now, those providers of OT monitoring services are either single technology-focused and often do not provide monitoring for the IT environment as well,” said Chris Carlson, Chief Product Officer at Critical Start. “By developing Critical Start MDR for OT, the company is not only highlighting the disruptive nature of our delivery platform but also our dedication to meeting the evolving demands of our customers.”
+Additional benefits of Critical Start MDR for OT include:
+- Immediate visibility and risk reduction – enabling organizations with or without dedicated OT security tools to gain visibility and reduce risk quickly and at a reasonable cost to start and accelerate their OT security journey
+- Scalable and adaptable solution that grows with the organization’s OT security needs – future-proofing an organization’s MDR investment by allowing them to add monitoring support for dedicated OT security tools if and when they are added in the future
+- End-to-end visibility for IT/OT convergence – by offering both MDR for OT and IT, Critical Start offers unique, end-to-end visibility, providing enhanced visibility and threat detection for IT/OT convergence in a single platform
+- Tailored rules of engagement and product integrations – the platform defines separate Rules of Engagement and product integrations for IT and OT environments, ensuring that customers can trust Critical Start not to take response actions that could negatively impact their operational environments, such as isolating a host, without proper authorization and validation
+- Overcoming barriers to OT security monitoring – Critical Start MDR for OT helps organizations overcome these barriers by providing a cost-effective, flexible solution that can be implemented quickly and scaled over time. This allows them to improve their OT security posture without significant upfront investments.
+
+For more information on Critical Start MDR for OT, visit: [https://www.criticalstart.com/our-solutions/managed-detection-response-services/operational-technology/](https://www.criticalstart.com/our-solutions/managed-detection-response-services/operational-technology/), or stop by Booth #449 South at RSAC for more details and a demo.
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
