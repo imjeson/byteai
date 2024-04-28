@@ -7,13 +7,13 @@ author: ByteAILab
 
 文章来源：有新Newin
 
-![](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1714094266318/FjSvda1v2b1aSA9jyz0zmH9_LwrV.png)
+![](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1714094266318/FjSvda1v2b1aSA9jyz0zmH9_LwrV.png)
 
 [速递｜谷歌市值暴涨 3000 亿美元！谷歌云以及广告收入加速增长，CEO 宣布了 700 亿美元回购计划](https://mp.weixin.qq.com/s/OaF-x2VDoNsEVep-aO9LlQ)
 
 4 月 25 日周四美股盘后，Google 发布了 2024 年一季度财报，整体收入为 805 亿美元，同比增长 15%，净利润为 237 亿美元（增长 57%），调整后 EPS 1.89美元，远超预期的1.53美元，较上年同期的1.17美元同比激增 61.5%。
 
-![](https://appserversrc.8btc.cn/Fnsg9sUs3cFNzKOElC3B4mBue3aY)
+![](http://www.jesonc.com/Fnsg9sUs3cFNzKOElC3B4mBue3aY)
 
 除了谷歌云的表现之外，员工数量的减少也可能是该季度获胜的原因之一。
 
@@ -22,7 +22,7 @@ author: ByteAILab
 
 由于广告和云收入均提速增长，各项指标全面超预期，Google 还宣布了首次股息（每股 20 美分）以及 700 亿美元的股票回购计划，谷歌股价盘后一度涨超16%至历史新高，激增约 3000 亿美元。
 
-![](https://appserversrc.8btc.cn/FppcsaAw0eW8KICjyPH4erUN3bmc)
+![](http://www.jesonc.com/FppcsaAw0eW8KICjyPH4erUN3bmc)
 
 受对依赖云基础设施、服务和应用程序的生成式 AI 工具的需求的推动，2024 年第一季度 Google Cloud 收入增长了 28%，达到 95.7 亿美元。
 
