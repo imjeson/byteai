@@ -11,8 +11,8 @@ author: ByteAILab
 
 “AI 能编辑 DNA 了，还是开源版！”  
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1714721126966/FsGJ2uYxRfrfHfFGLiqKmsumIm4B.png)  
-*图片来源：由无界AI生成*  
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1714721126966/FsGJ2uYxRfrfHfFGLiqKmsumIm4B.png)  
+*图片来源：由GPTNB生成*  
 
 <code>OpenCRISPR-1 开源链接：</code>  
 <code>https://github.com/Profluent-AI/OpenCRISPR</code>  
@@ -43,13 +43,13 @@ OpenCRISPR-1 的技术是由人工智能驱动、Cas9 样蛋白和指导 RNA 组
 
 为此，Profluent 进行了详尽的数据挖掘，以构建迄今为止最广泛的 CRISPR 系统数据集，被称为 CRISPR-Cas 图谱。为生成新的 CRISPR-Cas 蛋白，他们又在 CRISPR-Cas 图谱上训练了一个蛋白质语言模型。  
 
-![图：生成的序列极大地扩展了 CRISPR 相关蛋白质家族的多样性，以蛋白质簇的数量来衡量，图中显示了每个蛋白质家族在不同类型的 CRISPR-Cas 系统中被发现的频率。](https://appserversrc.8btc.cn/FiTtzwCRc8W4wr76RBQoqOuplLb3)  
+![图：生成的序列极大地扩展了 CRISPR 相关蛋白质家族的多样性，以蛋白质簇的数量来衡量，图中显示了每个蛋白质家族在不同类型的 CRISPR-Cas 系统中被发现的频率。](http://www.jesonc.com/FiTtzwCRc8W4wr76RBQoqOuplLb3)  
 
 从该模型中生成了 400 万个序列，并使用生物信息学技术来去除简并序列，确定每个生成的蛋白质属于哪个 CRISPR-Cas 家族后，他们发现，这些模型产生的蛋白质将几乎所有天然存在的 CRISPR-Cas 家族的多样性扩大了 4.8 倍，并且之后可以生成更多的序列进一步扩大这种多样性。  
 
 鉴于 SpCas9 的广泛采用和临床成功，其使用模型生成了可与 SpCas9 互操作的 Cas9 样蛋白，并选择了其中 48 个生成的序列，用于在人类细胞中进行严格的功能表征。他们发现，当与脱氨酶配对时，OpenCRISPR-1 和 SpCas9  在精确编辑靶基因组中的单个碱基时具有相似的活性和特异性。此外，他们还能够保持碱基编辑活性，同时使用由另一种 Profluent 训练的蛋白质语言模型生成的脱氨酶来提高特异性。  
 
-![图：对于测试的 5 种生成的核酸酶中的 4 种，使用模型生成的 sgRNA 提高了编辑效率。](https://appserversrc.8btc.cn/Fgko_umcqDeT5r3JJkWve2AOUbqW)  
+![图：对于测试的 5 种生成的核酸酶中的 4 种，使用模型生成的 sgRNA 提高了编辑效率。](http://www.jesonc.com/Fgko_umcqDeT5r3JJkWve2AOUbqW)  
 
 最后，为了进一步优化生成的核酸酶活性， Profluent 还训练了一个模型来为任何给定的 Cas9 样蛋白生成相容的 sgRNA。与 SpCas9 的 sgRNA 相比，这些生成的 sgRNA 可以提高所测试的五种蛋白质中四种产生的核酸酶的活性。  
 
