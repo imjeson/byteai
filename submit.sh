@@ -1,4 +1,5 @@
 #!/bin/bash
+python3 script/ai_news_type6.py
 
 # 设定变量
 REMOTE="origin"  # 远程仓库名称
