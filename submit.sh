@@ -2,7 +2,7 @@
 # python3 script/ai_news_type6.py
 # python3 script/ai_news_type7.py
 
-
+git pull
 # 设定变量
 REMOTE="origin"  # 远程仓库名称
 BRANCH="main"    # 要推送的分支名称
