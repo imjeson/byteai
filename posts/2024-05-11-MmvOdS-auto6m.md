@@ -1,5 +1,5 @@
 ---
-title: '如果我穿Musket的鞋子，我将如何处理特斯拉？（If I Were in Musk's Shoes, This is What I'd Do with Tesla）'
+title: 如果我穿Musket的鞋子，我将如何处理特斯拉
 date: 2024-05-11
 author: ByteAILab
 ---
