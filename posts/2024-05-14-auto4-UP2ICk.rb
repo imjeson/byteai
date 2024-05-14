@@ -1,0 +1,41 @@
+```
+---
+
+title: '监管要求减少采购英伟达芯片，并提升国产芯片占比'
+date: 2024-05-15
+author: ByteAILab
+
+---
+
+文章来源：[有新Newin](https://mp.weixin.qq.com/s/ZuSlGfuMXjBnb3pY2a-fHQ)
+
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1715652487200/FqWemQFElS-DLG0ppU4EXjkg9309.png)
+
+根据 The Information 消息，近几个月来，国内监管机构已要求字节跳动、腾讯、阿里巴巴和百度等大科技公司减少购买外国制造的 AI 芯片，转而购买更多国产芯片。
+
+尤其是英伟达 GPU 一直是大多数国内科技科技公司的首选，但监管希望科技公司为新的互联网数据购买同等数量的国产和外国制造的 AI 芯片，这是监管首次为企业在购买 AI 芯片制定具体指引。
+
+---
+
+
+另一方面，这些指引可能会影响英伟达最新 AI 芯片的销售，该芯片旨在遵守拜登政府去年实施的更严格的出口管制，阻止向中国公司出售某些芯片。
+
+自发布以来，国内的科技公司一直在测试和评估新的 GPU（称为 H20、L20 和 L2），以确定购买多少个。
+
+根据监管，如果国内公司选择订购更多的外国芯片而不是本土芯片，他们必须以书面形式详细说明订购美国芯片进行部署的数量，并证明其合理性。
+
+此外，使用国产芯片也意味着放弃使用英伟达的 CUDA 软件，而 CUDA 软件与英伟达芯片配合使用，可以帮助开发人员提高应用程序的性能，但还不能很好地与一些国产芯片配合使用。
+
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1715652075287/FvB8_8r3OYzhENMf16JP08jQbrfI.png)
+
+据悉，国内公司已订购至少 35 万块 H20 芯片，价值约 40 亿美元，将于 2024 年交付，这比去年国内公司向英伟达订购的价值 50 亿美元的订单有所下降，尽管其中一些订单在美国收紧出口管制后并未交付。
+
+例如，腾讯已经开始构建多个英伟达新型 H20 芯片集群，最大的计算集群可能由超过 60000 个 H20 GPU 组成。
+
+Reference:
+- [https://www.theinformation.com/articles/chinese-regulators-tell-local-tech-firms-to-buy-fewer-nvidia-chips?rc=z9mejq](https://www.theinformation.com/articles/chinese-regulators-tell-local-tech-firms-to-buy-fewer-nvidia-chips?rc=z9mejq)
+
+---
+```
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
