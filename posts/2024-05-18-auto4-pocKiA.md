@@ -10,7 +10,7 @@ author: ByteAILab
 OneFlow编译
 翻译｜杨婷、宛子琳
 
-![Image](https://appserversrc.8btc.cn/FpH9GPFeJ-Gx30T0KbV3g5T-89ns)
+![Image](http://www.jesonc.com/FpH9GPFeJ-Gx30T0KbV3g5T-89ns)
 
 四年前，我对开源机器学习生态系统进行了分析。自那时起，情况就发生了变化，所以这次我打算重新讨论这个话题，本次主要关注的是基础模型的技术栈。
 
@@ -37,7 +37,7 @@ OneFlow编译
 
 我认为，AI技术栈包含四个层级：基础设施层、模型开发层、应用开发层和应用层。
 
-![Image](https://appserversrc.8btc.cn/FvAyyl7m7_P-mpBpFwgJhVus0LpY)
+![Image](http://www.jesonc.com/FvAyyl7m7_P-mpBpFwgJhVus0LpY)
 
 1.基础设施层
 基础设施是AI技术栈的底层，包括用于Serving的工具（例如vLLM、NVIDIA的Triton）、计算管理（例如SkyPilot）、向量搜索和数据库（例如Faiss、Milvus、Qdrant、LanceDB）等。

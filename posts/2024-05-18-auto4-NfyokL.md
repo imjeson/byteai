@@ -8,7 +8,7 @@ author: ByteAILab
 文章来源：[头部科技](https://mp.weixin.qq.com/s/dn0oCrdkfkFSuna6w7V0tw)
 文丨俊俊
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1715907172941/Fm2BbncRoaxE9W5cycKHNncZWfgT.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1715907172941/Fm2BbncRoaxE9W5cycKHNncZWfgT.png)
 
 不容置疑，人工智能一定是近年关键词。国内百度、阿里、科大讯飞、商汤接连布局，王小川、李开复、王慧文等也纷纷加入，“他们”为AI造势，AI也令“他们”名声大噪，近期国外大模型也开启了大乱斗模式。
 
@@ -17,7 +17,7 @@ author: ByteAILab
 
 作为经历过移动互联网，投资过上一轮AI热潮的人，李开复也创立了大模型公司，他表示，“这次大模型创业，我十年都不会变现”，似乎不太乐观。或许，AI大战经过这么多轮的追逐，当下我们可能更要思考和面对的是，AI的浪潮中，企业应如何平衡技术信仰与市场导向？如何对冲大模型高昂的训练成本以及研发成本？AI又要如何赚钱，才能带动AI新创企业业绩持续增长，快速完成IPO实现上市？2024年，AI大模型行业将迎来真正洗牌。
 
-![在国外，大模型变现变难了](https://appserversrc.8btc.cn/FvbgoCNzusQbsJT7Dt08YnciVW2-)
+![在国外，大模型变现变难了](http://www.jesonc.com/FvbgoCNzusQbsJT7Dt08YnciVW2-)
 
 国外媒体日前撰文指出，人工智能的热潮或已开始逐渐褪去。人们也越来越清楚地认识到，大模型变现的过程中支出与收入差距明显，押注这场革命的科技公司，正努力寻找如何缩小巨额支出与未来利润之间的差距。
 
@@ -29,7 +29,7 @@ author: ByteAILab
 
 因推出开源大模型平台Stable Diffusion而风光无限的Stability AI，不仅进行了裁员，还辞退了首席执行官。得到亚马逊和谷歌巨额投资的Anthropic，则一直在努力缩小营收与巨额支出之间高达近18亿美元的差距。
 
-![在国内，情况也是不容乐观](https://appserversrc.8btc.cn/FkwKMB0hn1Rye2gaFvjBQmZgoHo5)
+![在国内，情况也是不容乐观](http://www.jesonc.com/FkwKMB0hn1Rye2gaFvjBQmZgoHo5)
 
 大模型企业的盈利能力始终限制着产业的发展。公开数据显示，2023年中国AI领域投融资数量约为232笔，融资总额约为20亿美元。CBInsights数据显示，2023全年生成式AI新创在全球获得约204亿美元融资，是2022年36亿美元的5倍以上。
 
@@ -39,7 +39,7 @@ author: ByteAILab
 
 资本押注“新AI四小龙”的背后，或是2023年全球资本市场对AI大模型高热情的缩影。若考虑“新AI四小龙”拿下行业大笔融资，其他AI新创企业则正面临融资难、融资少的问题，AI应用也成为资本关注的新方向。
 
-![绕不开的OpenAI，盈利能力又如何？](https://appserversrc.8btc.cn/FgiGS3QwJz5U_zKmhAUSlIw3W8N4)
+![绕不开的OpenAI，盈利能力又如何？](http://www.jesonc.com/FgiGS3QwJz5U_zKmhAUSlIw3W8N4)
 
 众所周知，**OpenAI 的技术能力领先程度，与其烧钱的速度，一直成正比的。**但其商业化收入，始终没有显著提升。
 
@@ -47,7 +47,7 @@ author: ByteAILab
 
 目前，ChatGPT Plus在两个应用商店的订阅价格均为19.99美元。由订阅数据推断，ChatGPT Plus过去一个月中，通过应用商店付费的订阅用户数为75万。虽然ChatGPT Plus还有大量的直接付费用户，但从手机端的收入来看，每年进项仅为2亿美元，再翻几倍也很难覆盖其烧钱速度，更难撑起OpenAI近千亿的估值。这可能也是GPT 5迟迟不发布的原因，要么是性能没提高多少，要么是成本太高。这背后，正是成本与商业模式的问题。
 
-![出路：To B or To C？](https://appserversrc.8btc.cn/FpoCYnDfcHyTfjzLwAuI-9jQdaos)
+![出路：To B or To C？](http://www.jesonc.com/FpoCYnDfcHyTfjzLwAuI-9jQdaos)
 
 自2023年大模型发展至今，To C端的大模型商业化一般为互联网订阅模式。如文心一言的连续包月和包年，智谱AI根据用户访问官网期间使用的tokens进行收费。此外，国内AI新创企业，多以互联网订阅方式为主，场景多集中在聊天机器人及衍生的AI虚拟陪伴等领域。但想要跑通互联网订阅模式，核心需解决用户增长、用户体验、用户留存等关键问题。尤其是在国内To C端用户付费意识不强下，更需保证大模型APP DAU的持续增长。2024年百模大战下，各类AI场景应用层出不穷，这让用户愈发挑剔的同时，各家企业想要打造爆款大模型APP难度也在增加，AI新创企业通过信息流、应用商店、App Store获取用户增长的成本将持续走高。如何不断进行场景创新，保证用户留存成为AI新创企业的难题。
 
