@@ -35,7 +35,7 @@ OneFlow编译
 
 我认为，AI技术栈包含四个层级：基础设施层、模型开发层、应用开发层和应用层。
 
-![](https://appserversrc.8btc.cn/FvAyyl7m7_P-mpBpFwgJhVus0LpY)
+![](http://www.jesonc.com/FvAyyl7m7_P-mpBpFwgJhVus0LpY)
 
 **基础设施层**
 
@@ -65,7 +65,7 @@ OneFlow编译
 2. 大部分容易获得的成果（low-hanging fruits）已被收割，剩下的项目需要付出更多的努力来构建，因此能够构建它们的人更少。
 3. 人们意识到在生成式人工智能领域很难保持竞争力，因此激动的情绪已平息。2023年初，我与公司的所有人工智能对话都集中在生成式人工智能上，但最近的交流更加务实，有些公司甚至提到了Scikit-learn。我希望在几个月后重新审视这一点，以验证这种情况是否属实。
 
-![](https://appserversrc.8btc.cn/FrXbol4U0embN4IFnkYNs_wcS9Hk)
+![](http://www.jesonc.com/FrXbol4U0embN4IFnkYNs_wcS9Hk)
 
 在2023年，增长最快的是应用层和应用程序开发层。基础设施层出现了一些增长，但远不及其他层的增长水平。
 
@@ -73,7 +73,7 @@ OneFlow编译
 
 毫不奇怪，最受欢迎的应用类型是编码、机器人（例如角色扮演、WhatsApp机器人、Slack机器人）以及信息聚合（例如“将其连接到我们的Slack，并要求它每天总结消息”）。
 
-![](https://appserversrc.8btc.cn/Fs8saDCiLxQBNNSgkpwtuSeljgW8)
+![](http://www.jesonc.com/Fs8saDCiLxQBNNSgkpwtuSeljgW8)
 
 **AI工程化**
 
@@ -81,7 +81,7 @@ OneFlow编译
 
 提示工程远不止是简单地调整提示，涵盖了诸如约束采样（结构化输出）、长期记忆管理、提示测试与评估等内容。
 
-![](https://appserversrc.8btc.cn/Fk2kYOBq5SlyZqNFeQ68TcE20HGE)
+![](http://www.jesonc.com/Fk2kYOBq5SlyZqNFeQ68TcE20HGE)
 
 AI界面提供了一个界面，可以让最终用户与AI应用程序进行交互。这是我最感兴趣的一个类别。一些日益受到欢迎的界面包括：
 
@@ -94,7 +94,7 @@ AIE框架是一个统称，用来指代所有能够帮助开发AI应用程序的
 
 智能体是一个捉摸不定的类别，因为许多智能体工具实际上只是复杂的提示工程，可能包含约束生成（例如，模型只能输出预定的动作）和插件集成（例如，让智能体使用工具）。
 
-![](https://appserversrc.8btc.cn/FrFLy3sCBu0Itpx3UiW51pAtVfNs)
+![](http://www.jesonc.com/FrFLy3sCBu0Itpx3UiW51pAtVfNs)
 
 **模型开发层**
 
@@ -104,7 +104,7 @@ AIE框架是一个统称，用来指代所有能够帮助开发AI应用程序的
 
 同样，模型评估一直以来也十分重要，但如今许多人把模型视为黑匣子，因此评估的重要性变得愈发突出。现在出现了许多新的评估基准和评估方法，例如比较评估（如Chatbot Arena）和将AI作为裁判（AI-as-a-judge）的评估方法。
 
-![](https://appserversrc.8btc.cn/FlgQ0okr3qd-_0QUEBap8e4Xeizh)
+![](http://www.jesonc.com/FlgQ0okr3qd-_0QUEBap8e4Xeizh)
 
 **基础设施层**
 
@@ -129,15 +129,15 @@ AIE框架是一个统称，用来指代所有能够帮助开发AI应用程序的
 - Illyasviel（Lyumin Zhang）：创建了Foocus和ControlNet，目前在斯坦福大学攻读博士。
 - xtekky：一位全栈开发者，创建了gpt4free。
 
-![](https://appserversrc.8btc.cn/Fj4B9rzAR0zZG6tY7k4_HUSypor6)
+![](http://www.jesonc.com/Fj4B9rzAR0zZG6tY7k4_HUSypor6)
 
 自然地，在技术栈所处的层级越低，个人开发的难度就越大。因此基础设施层的软件最不可能由个人账户发起和托管。然而，超过一半的应用程序由个人托管。
 
-![](https://appserversrc.8btc.cn/FsUyUfoQ45BQGbb7i66PzwXM-x3s)
+![](http://www.jesonc.com/FsUyUfoQ45BQGbb7i66PzwXM-x3s)
 
 由个人发起的应用程序平均获得的star数比由组织发起的更多。许多人推测将会出现众多市值不菲的个人公司（参考OpenAI CEO Sam Altman的采访 https://fortune.com/2024/02/04/sam-altman-one-person-unicorn-silicon-valley-founder-myth/ 以及Reddit上的讨论）。我认为，这种推测可能是正确的。
 
-![](https://appserversrc.8btc.cn/FvqauRpv7u3WCaBclg7a9CeUtGOS)
+![](http://www.jesonc.com/FvqauRpv7u3WCaBclg7a9CeUtGOS)
 
 **100万次commit**
 
@@ -145,7 +145,7 @@ AIE框架是一个统称，用来指代所有能够帮助开发AI应用程序的
 
 其中排名前50位的活跃开发人员完成了超10万次commit，平均每人超过2000次。下图为前50位最活跃的开源开发人员的完整列表。
 
-![](https://appserversrc.8btc.cn/Fu1HO6mV4IYvKMcxHonYy23iZoAe)
+![](http://www.jesonc.com/Fu1HO6mV4IYvKMcxHonYy23iZoAe)
 
 **中国不断壮大的开源生态系统**
 
