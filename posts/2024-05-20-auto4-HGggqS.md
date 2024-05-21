@@ -29,21 +29,21 @@ author: ByteAILab
 2023 年 8 月，宇树科技发布了人形机器人 H1，预售价为 9 万美元（约合 65 万元人民币）。本周，宇树推出的新版人形机器人 Unitree G1 将价格降到 9.9 万元人民币起，便宜了超 80%。
 与第一代产品相比，Unitree G1 能力显著提升：开瓶盖、砸核桃、颠锅、跑步、舞棍、自我蜷缩……在宇树科技发布的产品演示视频里，身体和双腿能旋转近 360°，Unitree G1 像人类一样用机械双臂灵活地完成一系列工作。
 
-![图片来源：宇树科技](https://appserversrc.8btc.cn/Fjc9AmitZ_gCKy_EMLNzLquDaKGP)
+![图片来源：宇树科技](http://www.jesonc.com/Fjc9AmitZ_gCKy_EMLNzLquDaKGP)
 
 **开源闭源并进：零一万物发布千亿参数 Yi-Large 模型**
 开源构建生态，闭源探索AI上限
 零一万物成立一周年之际，其千亿参数 Yi-Large 闭源模型正式亮相，在斯坦福最新的 AlpacaEval 2.0 达到全球大模型 Win Rate 第一。
 同时，零一万物将早先发布的 Yi-34B、Yi-9B/6B 中小尺寸开源模型版本升级为 Yi-1.5 系列，每个版本达到同尺寸中 SOTA 性能最佳。
 
-![Yi 大模型 API 开放平台 | 图片来源：零一万物](https://appserversrc.8btc.cn/FrLTAgvCOPOG4SEI0VR4C30HYFE0)
+![Yi 大模型 API 开放平台 | 图片来源：零一万物](http://www.jesonc.com/FrLTAgvCOPOG4SEI0VR4C30HYFE0)
 
 **5 月 14 日（周二）**
 **「Her」真的来了：「GPT-4o」将语音助手带到了新高度**
 多模态融合模型，只是工程的进步吗？
 OpenAI 发布了新一代旗舰模型 GPT-4o，它可以让人们在手机上与 ChatGPT 对话，就像他们与 Siri 和其他语音助手对话一样。不同的是，ChatGPT 语音助手的理解能力有了质的飞跃，还可以分析和讨论...
 
-![图片来源：OpenAI](https://appserversrc.8btc.cn/FoId_ND07NsgsOC2OElTNLKw3iMs)
+![图片来源：OpenAI](http://www.jesonc.com/FoId_ND07NsgsOC2OElTNLKw3iMs)
 
 **5 月 15 日（周三）**
 **没有一款产品没有被 AI 改造：谷歌全面进入 Gemini 时代**
@@ -52,7 +52,7 @@ Sora 尚且是科技巨头的选做题，但多模态融合就是大模型公司
 三个产品值得关注：
 - Project Astra 的多模态 AI 助手。如果说 2023 年的竞赛点是 Copilot，2024 年，赛点则进化为多模态融合的 Agent，背后是从 LLM（大语言模型）到 One-network-multimodality（一个框架下的多模态大模型）的技术路径迁移，最终迈向跟通用的人工智能。
 
-![多模态语音助手正在与用户实时对话｜图片来源：Google](https://appserversrc.8btc.cn/FiQl7zPMHbDJNfUzsCbKISKvt0xp)
+![多模态语音助手正在与用户实时对话｜图片来源：Google](http://www.jesonc.com/FiQl7zPMHbDJNfUzsCbKISKvt0xp)
 
 - Veo：Veo 可以根据文本、图像和视频提示创建 AI 生成的视频，并且即将登陆 YouTube，帮助创作者快速制作更专业品质的视频.
 - ...
