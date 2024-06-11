@@ -7,7 +7,7 @@ author: ByteAILab
 
 文章来源：[硬AI](https://mp.weixin.qq.com/s/Lo1eRREH3qbv8zdtEsfVgg)
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1717719556511/FuSZ61HWYBa9pQE16DNMMiu1qgui.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1717719556511/FuSZ61HWYBa9pQE16DNMMiu1qgui.png)
 
 AMD AI芯片更新加速至“一年一更”、CoPilot+PC早期反馈喜忧参半、GB200配置或成为未来主流规格、英特尔和AMD将于下半年推出新一代服务器CPU……
 
