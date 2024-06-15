@@ -17,7 +17,7 @@ author: ByteAILab
 ③ 美国政府通过《芯片法案》提供了近300亿美元的补贴和250亿美元的贷款，以及税收减免等激励措施，确保了半导体制造业的长期稳定发展，并鼓励了企业在美国本土进行投资。
 ④ 《芯片法案》不仅关注短期投资，更着眼于长期就业机会的创造。该法案有望创造数十万个长期且有潜力改变生活的工作岗位。
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718262855046/Fsa1mOFSa0kgjPTGdlEqaiztIme3.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718262855046/Fsa1mOFSa0kgjPTGdlEqaiztIme3.png)
 
 腾讯科技讯 国外媒体近日撰文指出，在全球化的浪潮中，半导体产业的战略地位愈发显著。美国通过《芯片法案》（CHIPS Act，全称为《促进半导体生产激励法案》），力图重振本土半导体制造业，但却面临人才短缺的严峻挑战。以下为文章全文：
 
@@ -33,7 +33,7 @@ author: ByteAILab
 
 回顾20世纪70年代，在商业半导体行业的初期，美国是全球人才的聚集地。德州仪器、美光等美国公司曾是全球最大的创新者，吸引了众多顶尖工程人才，并在美国国内生产了大量芯片。然而，商业模式在随后几十年中发生变化，许多顶级芯片设计公司，如英伟达、英特尔和AMD等，虽然继续在美国进行芯片设计，但随着制造业的日益复杂和专业化，这些公司开始将先进芯片的生产外包给亚洲，尤其是台积电，该公司目前生产了全球92%的尖端芯片，这些芯片被广泛应用于先进的人工智能和计算领域。
 
-![图片](https://appserversrc.8btc.cn/FtwLaXJEoPa9r0bAvtOs1WWY6hmS)
+![图片](http://www.jesonc.com/FtwLaXJEoPa9r0bAvtOs1WWY6hmS)
 
 **让美国制造业重塑吸引力**
 
@@ -53,7 +53,7 @@ author: ByteAILab
 
 官员们回应说，芯片法案的资金附带了严格的条款，要求接受资金的公司长期留在美国，并且制造业工作岗位将因半导体在商业、娱乐和国家安全中的至关重要的作用而得到保护。
 
-![图片](https://appserversrc.8btc.cn/FktJURnvyg2geuop25lbrADjGtSr)
+![图片](http://www.jesonc.com/FktJURnvyg2geuop25lbrADjGtSr)
 
 **新的职业道路**
 
