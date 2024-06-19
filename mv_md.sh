@@ -2,7 +2,7 @@
 
 # Step 1: Move files
 mkdir -p /tmp/allfiles
-mv /home/hello/byteai/posts/2024-06-16*.md /tmp/allfiles 2>/dev/null
+#mv /home/hello/byteai/posts/2024-06-16*.md /tmp/allfiles 2>/dev/null
 
 # Check if any files were moved
 if [ "$(ls -A /tmp/allfiles/*.md 2>/dev/null)" ]; then
@@ -16,7 +16,7 @@ if [ "$(ls -A /tmp/allfiles/*.md 2>/dev/null)" ]; then
         fi
     done
 else
-    echo "No files to move from /home/hello/byteai/posts/2024-05-22*.md"
+    echo "No files to move from /home/hello/byteai/posts/*.md"
 fi
 
 echo "All files have been processed."
