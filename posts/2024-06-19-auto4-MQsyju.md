@@ -18,7 +18,7 @@ author: ByteAILab
 
 截止发稿，台积电股价在940.00新台币至950.00新台币之间波动，距摩根和花旗的预期还有约14%-21%的上涨空间。
 
-![图1](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718761598158/Fv1LyvdaXmksie1Fl6FQhvUZF0gE.png)
+![图1](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718761598158/Fv1LyvdaXmksie1Fl6FQhvUZF0gE.png)
 
 价格上涨将推动毛利率上涨至50%-60%
 
@@ -28,7 +28,7 @@ author: ByteAILab
 
 报告指出，随着产品组合的优化（N3E占比提高）和N3产量的提升，预计台积电的毛利率将在2025年下半年至2026年上半年上涨，达到50%至60%的水平。
 
-![图2](https://appserversrc.8btc.cn/Fgv9DExelmMTw3v5PRROUmGk5oDY)
+![图2](http://www.jesonc.com/Fgv9DExelmMTw3v5PRROUmGk5oDY)
 
 我们认为，随着周期性复苏的加强，毛利率还有进一步的上升空间，因为台积电在N7及旧制程节点的应用具有上行潜力。
 
@@ -46,7 +46,7 @@ author: ByteAILab
 
 摩根大通的研报强调，台积电几乎垄断了AI加速器和边缘计算芯片领域，凭借强大的制程路线图（N3和N2）和行业领先的封装技术，台积电预计在未来几年内继续引领市场。
 
-![图3](https://appserversrc.8btc.cn/Fi3E7qvqVLcQq9TwRv6N5Xg8CrBE)
+![图3](http://www.jesonc.com/Fi3E7qvqVLcQq9TwRv6N5Xg8CrBE)
 
 此外，预计台积电在2024年下半年和2025年将增加资本支出，主要用于N3、先进封装技术和N2制程的投入，预计2024年的资本支出将达到约310亿美元，而2025年将增加到350亿美元。
 
