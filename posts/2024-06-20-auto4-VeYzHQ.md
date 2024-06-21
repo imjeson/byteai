@@ -10,7 +10,7 @@ author: ByteAILab
 ---
 
 
-[图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718848659399/FvL0cplII2s1DbcGN9ZEU40KvsTm.png)
+[图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718848659399/FvL0cplII2s1DbcGN9ZEU40KvsTm.png)
 
 Ilya 写道，“我们将直截了当地追求安全超级智能（safe superintelligence，SSI），只有一个重点、一个目标和一个产品。我们将通过一个小型精干的团队所取得的革命性突破来实现这一目标。”在接受彭博社采访时，Ilya 表示，“它将完全不受外界压力的影响，不必处理庞大而复杂的产品，也不必陷入竞争激烈的赛跑中。”
 
@@ -32,7 +32,7 @@ Ilya 写道，“我们将直截了当地追求安全超级智能（safe superin
 > Ilya Sutskever, Daniel Gross, Daniel Levy
 > 2024 年 6 月 19 日
 
-[图片来源](https://appserversrc.8btc.cn/FqKjP9cRnO-ZRy1LUzRIlL9Q04ec)
+[图片来源](http://www.jesonc.com/FqKjP9cRnO-ZRy1LUzRIlL9Q04ec)
 
 数十年来，研究人员一直在思考如何让人工智能系统变得更安全。目前的技术水平是利用人类和人工智能来引导软件朝着符合人类最佳利益的方向发展。至于如何阻止人工智能系统失控，这在很大程度上仍是一个哲学问题。
 

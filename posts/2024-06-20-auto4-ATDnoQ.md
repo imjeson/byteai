@@ -10,7 +10,7 @@ author: ByteAILab
 文 | 陈卓
 编辑｜顾彦
 
-![图片来源：由GPTNB生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718852473414/FipQr9wcSYkVAZvca6CHvIgslcTk.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1718852473414/FipQr9wcSYkVAZvca6CHvIgslcTk.png)
 
 新型乱象怎么治？
 
@@ -27,7 +27,7 @@ author: ByteAILab
 
 AI谣言造成的后果不容小视，这一行业乱象已经引起各方重视。
 
-![图源：央视新闻](https://appserversrc.8btc.cn/FgLex35d_r1FI71FG2918o1qpI2I)
+![图源：央视新闻](http://www.jesonc.com/FgLex35d_r1FI71FG2918o1qpI2I)
 
 ## AI造谣，日进万元？
 
@@ -37,7 +37,7 @@ AI谣言造成的后果不容小视，这一行业乱象已经引起各方重视
 
 经调查，相关账号归属于一家江西的MCN 机构，而消息的内容从文字到图片都是AI生成的。据公司实控人王某某供述，他**通过具有语音交互功能的AI软件，说出几个关键词后，自动在网络上抓取相关信息，生成几百到上千字的文本，再配上貌似和事件具有相关的虚假图片，从而形成一段看起来信息量很大、实际上子虚乌有的内容。**
 
-![图源：央视新闻](https://appserversrc.8btc.cn/FjHFx_qjZOyfQT0HvVtyDSnwmI4e)
+![图源：央视新闻](http://www.jesonc.com/FjHFx_qjZOyfQT0HvVtyDSnwmI4e)
 
 无独有偶，重庆公安也查处了一起利用AI软件编造谣言的案件。
 
