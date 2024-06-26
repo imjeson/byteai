@@ -6,7 +6,7 @@ author: ByteAILab
 
 ---
 
-![图片来源：由GPTNB生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1719280098829/Fv1LyvdaXmksie1Fl6FQhvUZF0gE.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1719280098829/Fv1LyvdaXmksie1Fl6FQhvUZF0gE.png)
 
 文章来源： [头部科技](https://mp.weixin.qq.com/s/QoiqNw3VtW88BgxUC2BlTQ)
 
