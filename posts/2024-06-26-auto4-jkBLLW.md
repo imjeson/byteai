@@ -8,7 +8,7 @@ author: ByteAILab
 文章来源： [头部科技](https://mp.weixin.qq.com/s/DmkMKCSGwRnYqsA9Ea33Lg)
 文丨俊俊
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1719366104969/FovvJ-GDeWgpn0LmlyfeI1f4_gXH.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1719366104969/FovvJ-GDeWgpn0LmlyfeI1f4_gXH.png)
 
 香港大基金再次出手，投向生命科学人工智能板块。
 6月24日，香港投资管理公司（港投公司）与百图生科（BioMap）签订战略合作协议。
@@ -17,7 +17,7 @@ author: ByteAILab
 
 港投公司表示，将为百图生科后续在港发展提供全方位的资源配对和支持，推动香港发展成为国际生物计算港。这是港投公司两周内公布的第二家战略合作伙伴。此次领投也是港投公司首次公开宣布领投项目，具体投资金额和持股比例未披露。
 
-![图片](https://appserversrc.8btc.cn/FlmzUcpou4gUj2-CB5M0mQsEkcD5)
+![图片](http://www.jesonc.com/FlmzUcpou4gUj2-CB5M0mQsEkcD5)
 
 香港投资管理有限公司行政总裁陈家齐（左）与百图生科联合创始人兼首席执行官刘维（右）签署战略合作协议，并由香港特区政府财政司司长陈茂波（中）鉴签。图源：政府新闻处
 
@@ -27,7 +27,7 @@ author: ByteAILab
 
 百图生科同日宣布在香港设立旗下首个国际创新中心（BioMap InnoHub），冀望共同加速香港AI for Life Science的生态建设及发展。香港大学、香港科技大学、香港数码港、香港科技园公司作为百图生科的生态合作伙伴，共同出席了创新中心启动仪式。
 
-![图片](https://appserversrc.8btc.cn/FgM0t66hGBLW9wUdqMK5L1IcUDQq)
+![图片](http://www.jesonc.com/FgM0t66hGBLW9wUdqMK5L1IcUDQq)
 
 ### 百图生科
 
@@ -35,7 +35,7 @@ author: ByteAILab
 目前已达到千亿参数水平，通过建模生物演化，解码生命规律，为生命科学产业的前沿发现问题带来生成能力。在创新药物设计、靶点发现、蛋白质的从头设计、绿色科技、工业创新、消费升级等领域实现系列突破性成果，从而助力人类健康和社会永续发展。
 百图生科亦是特区政府引进重点企业办公室签约落户香港的第二批重点企业伙伴之一。
 
-![图片](https://appserversrc.8btc.cn/FtRBhtsvrOxlbinaFC6OWvTtywty)
+![图片](http://www.jesonc.com/FtRBhtsvrOxlbinaFC6OWvTtywty)
 
 百图生科创新中心的首个落地项目是“生物计算创新加速计划”（BioMap BioX），该计划预计在未来5年支持50个以上的前沿生命科学早期研发项目，并会优先审核经由香港高等院校和生态合作伙伴推荐的项目。
 对于入选项目，百图将利用自身的生命科学大模型xTrimo和AIGP平台技术，为研究者和创业者提供百图生科的技术支持，并帮助他们对接全球旗舰企业和投资者，探索更多应用场景，以加速将研发构想转化为市场化产品、工业化公司，从而令生命科学行业可以像互联网企业一样快速创业和成长。
@@ -47,7 +47,7 @@ author: ByteAILab
 自筹备以来，港投公司就被赋予了重大使命——管理在“未来基金”下设立的220亿港元“香港增长组合”、50亿港元“大湾区投资基金”、50亿港元“策略性创科基金”，以及新成立的300亿港元“共同投资基金”，基金管理规模达620亿港元。
 其中，300亿元“共同投资基金”被外界视为香港版“政府引导基金”，也是圈内关注的超级LP。这是香港借鉴内地引导基金模式，从“未来基金”拨出300亿元成立的基金，用以引进和投资落户香港的企业，而基金也将会按企业个别项目带动本地产业发展的潜力。
 
-![图片](https://appserversrc.8btc.cn/Fpav0ak0QMtciE6SD-PtTerrviBr)
+![图片](http://www.jesonc.com/Fpav0ak0QMtciE6SD-PtTerrviBr)
 
 据悉，在香港投资管理有限公司运营初期，香港金融管理局向其提供投资、后勤和运营方面的支援，公司也会随业务发展逐步建立其管理团队。
 这一政府主导的投资公司在香港还是首次出现，正因如此，港投公司也被称为“港版淡马锡”。
@@ -64,7 +64,7 @@ author: ByteAILab
 人工智能已经改变了生命科学研究的方式，为科学家提供了更强大的工具来解决复杂的生物学问题。从2020年至今，“AI+生命科学”已经进入了快速发展期。
 根据百度百科方面的介绍，百图生科是中国首家生物计算技术驱动的生命科学平台公司。
 
-![图片](https://appserversrc.8btc.cn/FlOIvRK18yVHgJ2sZ0D2MLPEhS20)
+![图片](http://www.jesonc.com/FlOIvRK18yVHgJ2sZ0D2MLPEhS20)
 
 生命科学领域的AI运用，当前已覆盖从药物发现到商业化全流程的阶段，并且在药物发现与研究、临床前等方面发展较为成熟。
 传统主流药企研发以人的假设和已有实验能力为主导，探索潜在的靶点空间或者制药空间就会受到已有研发积累的较大限制。
