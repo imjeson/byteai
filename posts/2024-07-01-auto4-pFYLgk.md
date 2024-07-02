@@ -7,7 +7,7 @@ author: ByteAILab
 
 OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其服务的国家和地区的API流量，而中国也在禁用名单之列。
 
-![Image 1](https://appserversrc.8btc.cn/FqwO-MUCbr9dX0_B8R7KsJ4wl1Gg)
+![Image 1](http://www.jesonc.com/FqwO-MUCbr9dX0_B8R7KsJ4wl1Gg)
 
 消息一出，国产大模型们应声而动，立刻推出了相应的“搬家”或“迁移”方案。
 
@@ -28,7 +28,7 @@ OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其
 
 而就在6月22日，美国财政部发布了一份规则草案，进一步限制美国个人和企业投资中国的半导体、量子计算和人工智能业务。新规则草案推出，面对越来越明确的AI封锁态势，OpenAI也主动明哲保身，选择了加强区域限制，采取额外措施阻止来自不受支持地区的API流量。
 
-![Image 2](https://appserversrc.8btc.cn/FnCYWlR0-U9liQAB9WgjwjhoKMad)
+![Image 2](http://www.jesonc.com/FnCYWlR0-U9liQAB9WgjwjhoKMad)
 
 到底是什么人和公司“明知不可为而为之”，在使用OpenAI的API呢？主要有三类：
 
@@ -42,7 +42,7 @@ OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其
 
 随着国内模厂的模型基本完善，不用再通过调用API的方式收集数据。海外应用的开发，应用往往需要对本地市场的深入了解，因此国内开发者数量规模也较小。相比之下，“套壳API”的初创公司可能受到的打击是最大的，不过通过“搬家”切换到国产大模型，快速找到能力接近的替代方案，也能一定程度上规避风险。
 
-![Image 3](https://appserversrc.8btc.cn/FiKc23OpcRlXFaS_iPeSlu1kbUcF)
+![Image 3](http://www.jesonc.com/FiKc23OpcRlXFaS_iPeSlu1kbUcF)
 
 所以总体来说，OpenAI更严格的API限制，并不会给中国AI带来很大的动荡。
 
@@ -58,7 +58,7 @@ OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其
 
 1. 框架。深度学习框架，是支持AI算法模型开发和部署的软件平台，对AI应用的开发效率和性能有重要影响。目前国内深度学习框架市场主要由飞桨（由百度开发）、TensorFlow（由Google开发）、PyTorch（由Meta开发）三家主导，共同占据了超过80%的市场份额。这三家均为开源框架，允许开发者自由地查看、修改和使用其源代码，不过TensorFlow、PyTorch作为开源平台也需要遵守所在国法律法规，并可以通过开源许可证等方式，限制开发者的访问。
 
-![Image 4](https://appserversrc.8btc.cn/FoF4P_yiWudXdQUx-egDnIQ7z-2b)
+![Image 4](http://www.jesonc.com/FoF4P_yiWudXdQUx-egDnIQ7z-2b)
 
 2. 算子库。包含各种数学和逻辑运算函数的库，在深度学习框架中扮演着至关重要的角色，为各种算法提供了基础的计算单元。如果算子库是闭源的，又归属于海外公司，那么可以直接限制使用。开源的算子库也要遵循一定的开源协议，协议中往往会规定代码的使用、修改和分发规则，如果开发者没有获得适当的许可或权限，也无法使用。目前，国内飞桨、昇思等AI开发平台都发布了算子库。
 
@@ -68,7 +68,7 @@ OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其
 
 此外还有编译器、IDE等，这些软件工具可以大大提高开发者的编程效率。如果被禁用，开发者将需要手动完成这些工作，从而导致开发效率降低，团队协作困难，甚至影响项目的进度和质量。
 
-![Image 5](https://appserversrc.8btc.cn/FptuaoGEm_bRVKnEq_86F_sGJR1d)
+![Image 5](http://www.jesonc.com/FptuaoGEm_bRVKnEq_86F_sGJR1d)
 
 “英伟达禁令”执行以后，一位国内某计算厂商向脑极体表示，“虽然我们还可以用特供版的AI芯片，但确实支持不了英伟达最新的平台了”。
 
@@ -82,7 +82,7 @@ OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其
 
 实际上，中国AI产学界始终保持着开放心态，积极吸收国际先进技术，与世界接轨。斯坦福大学发布的《2024 年人工智能指数报告》显示，自2011年以来，GitHub上的开源人工智能项目，中国参与度不断增长，直到2019年在科技领域遭受不合理打压之后，才开始走低。
 
-![Image 6](https://appserversrc.8btc.cn/Fp-SYE0iHX5Un7rJNA19YuPDJqe5)
+![Image 6](http://www.jesonc.com/Fp-SYE0iHX5Un7rJNA19YuPDJqe5)
 
 无论是芯片禁运，还是API禁用，都是海外以“国家安全”“保证美国AI领先地位”等理由，发起的单方面阻隔。而在短时间内，这种单方面动手的“AI封锁”，并不会告一段落。
 
@@ -98,7 +98,7 @@ OpenAI在6月25日凌晨宣布，将从7月9日起，将阻止来自不支持其
 
 但正如经济学家江小涓所说的，在当今科技全球化、产业全球化的格局下，“会做的全部自己做”并不是最优选项。
 
-![Image 7](https://appserversrc.8btc.cn/FhSsyhLqIHusnKz_SvdrcseQA5dF)
+![Image 7](http://www.jesonc.com/FhSsyhLqIHusnKz_SvdrcseQA5dF)
 
 所以中国AI的第二条腿，是保持与全球最新趋势的紧密联系，确保信息通畅、创新同步。
 
