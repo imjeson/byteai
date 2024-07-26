@@ -1,0 +1,63 @@
+---
+title: '老外都在用！盘点全球最高效的十大办公AI工具'
+date: 2024-07-27
+author: ByteAILab
+
+---
+
+尽管人们担心人工智能会取代人类，但大部分“打工人”还是在工作中积极拥抱AI来提高工作效率。根据FlexOS收集的Similarweb网站流量数据，5月份，OpenAI的ChatGPT使用量增长了74%，网站访问量从4月份的18亿次增至31亿次。
+
+---
+
+
+ChatGPT是5月份全球工作中使用最多的生成式人工智能工具，紧随其后的竞争对手包括谷歌Gemini和Anthropic的Claude。
+
+根据FlexOS，以下是全球工作中最常使用的十大AI工具，按照使用频率从低到高排序。
+
+### 10. ElevenLabs
+ElevenLabs开发的AI模型可以生成音频语音、声音和音效，适用于包括有声书和视频游戏角色在内的内容，并且支持29种语言。据该公司称，其人工智能音频模型还被用于帮助失声者和特殊需求者。根据Similarweb的数据，从4月到6月，ElevenLabs在全球的总访问量为6387万次.
+![ElevenLabs](http://www.jesonc.com/FsO7r5YeANHplbT6Y2AHWlwrBH8s)
+
+### 09. Poe
+Poe由问答网站Quora创建，允许用户在一个平台上与ChatGPT和Claude等人工智能聊天机器人互动。根据Similarweb的数据，从3月到5月，该网站在全球的总访问量达到了1.48亿次.
+![Poe](http://www.jesonc.com/FraNq3J139Sjo5OEthXNpe-HqUlK)
+
+### 08. Claude
+Anthropic表示，Claude由人工智能初创公司Anthropic开发，是一款“为工作而生”的人工智能助手。根据Similarweb的数据，从3月到5月，该助手在全球的总访问量达到了1.86亿次.
+![Claude](http://www.jesonc.com/FtMcTGtkjeHW1PzejDqVfTFpJ84I)
+
+### 07. GitHubCopilot
+GitHubCopilot是一款面向软件开发人员的编程和编码辅助工具。根据FlexOS的数据，它是5月份增长速度第十快的人工智能工作工具.
+![GitHubCopilot](http://www.jesonc.com/Fsvy87Z4nycPaec0ktcjeRHaitRc)
+
+### 06. Suno
+Suno是一款人工智能音频生成器，允许用户从文本中生成音乐。它和另一家人工智能音乐初创公司Udio正被环球音乐集团、索尼音乐娱乐公司和华纳唱片公司等大型唱片公司起诉，指控它们未经同意使用艺术家的作品.
+![Suno](http://www.jesonc.com/FjbFKvHmA_kA6K2Wp3VaAcZAMuvh)
+
+### 05. PerplexityAI
+Perplexity是一个人工智能聊天机器人搜索引擎，旨在与谷歌一较高下。根据Similarweb的数据，这家自称为“传统搜索引擎替代品”的初创公司在3月至5月期间的全球总访问量达到了2.174亿次.
+![PerplexityAI](http://www.jesonc.com/FkOlkQ0KF0NcoivHQr5QhgcWv9aI)
+
+### 04. QuillBot
+QuillBot是一款人工智能驱动的写作和编辑工具，有助于专业写作。根据Similarweb的数据，该网站6月份的总访问量为5270万次.
+![QuillBot](http://www.jesonc.com/Ft3AFmZTtCdOCYZvMu5rjeeEx6a2)
+
+### 03. GoogleGemini
+根据FlexOS的数据，谷歌人工智能聊天机器人Gemini是ChatGPT在大型语言模型（LLM）类别中最接近的竞争对手。它占据了5月份LLM流量的11%，也就是近4.19亿次访问.
+![GoogleGemini](http://www.jesonc.com/Ftcyt0dg5fzPHHIbLkFsCDGVDnFW)
+
+### 02. CanvaAISuite
+根据FlexOS的数据，CanvaAI套件被列入图像生成器和编辑器类别，占5月份100大人工智能工作工具流量的6%。该套件包括图片、视频和演示文稿生成器.
+![CanvaAISuite](http://www.jesonc.com/Fs-zgsHKVPQAEAHWYFmd_675CXJm)
+
+### 01. ChatGPT
+根据Similarweb的数据，OpenAI的ChatGPT是5月份全球最受欢迎的人工智能工作工具，网站访问量达31亿次。FlexOS指出，OpenAI在5月份将ChatGPT从原来的子域转移到了一个新域，但在3月份就已经开始重定向流量。
+
+据FlexOS称，虽然美国是ChatGPT的最大市场，但印度、印度尼西亚和巴西也是ChatGPT使用率最高的国家。该聊天机器人还占据了工作AI工具100强67%的流量.  
+![ChatGPT](http://www.jesonc.com/FsAGUXlon-I2Z9tmshK3XPj1yGT9)
+
+原文来源于：  
+https://qz.com/ai-artificial-intelligence-work-chatgpt-google-gemini-1851581083  
+中文内容由元宇宙之心（MetaverseHub）团队编译，如需转载请联系我们.
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
