@@ -1,0 +1,22 @@
+---
+
+title: 'Simon Gooch加入Saviynt担任高级专家服务副总裁'
+date: 2024-08-24
+author: ByteAILab
+
+---
+
+Leading identity management firm hires Gooch to help transform organizations from their legacy identity solutions to Saviynt’s innovative, secure, intelligent digital identity governance platform
+Saviynt, a leading provider of cloud-native identity and governance platform solutions, today announced that IT transformation and Security Services industry leader Simon Gooch has joined the company as Senior Vice President of Expert Services.![图片](https://ai-techpark.com/wp-content/uploads/2024/08/Former-Acce-960x540.jpg){ width=60% }
+
+---
+
+Simon most recently served as Global Digital Identity Lead and Director of Security for CIO at Accenture. Over a 25+ year career at Accenture, Simon led key IT digital transformation projects for the company, including transforming its internal security architecture from a legacy, reactive on-prem approach to a dynamic cloud first, service oriented model with a focus on identity, access and data governance. Simon helped the company ensure the delivery of effective internal security and identity projects even as the company grew dramatically over his career. With his direct experience in large scale digital transformation projects, Simon also worked closely with many of Accenture’s customers.
+“We are thrilled to strengthen our leadership team with the addition of Simon, one of the industry’s most respected and highly-regarded IT and security visionaries,” said Paul Zolfaghari, President at Saviynt. “He brings deep experience from one of the world’s largest organizations to Saviynt where our customers will benefit from his strategic, future-focused perspective and vast knowledge. We are looking forward to making Simon’s unique, exceptional expertise available to Saviynt’s customers.”
+In his role as Senior Vice President of Expert Services, Simon will be responsible for ensuring that existing customers realize the full benefit of Saviynt’s identity management platform. Simon will also work with new companies who are considering an identity modernization initiative, showing them the achievable path to realize the value of this transformation with Saviynt’s solutions.
+“As I start my journey at Saviynt, I have reflected on how this pivotal stage in my career aligns with what I see as an equally pivotal evolutionary stage in cybersecurity. I believe emphatically that only by truly making identity the fabric that binds, protects and enables all technology can you look to securely and effectively transform businesses,” said Simon. “I am excited to be joining an organization that not only has the desire to play a key role in shaping this next evolutionary stage but has brought together a team of people whose passion, expertise and experience will set the blueprint for an innovative and successful future.”
+Simon was instrumental in securing the technology that runs Accenture’s business – a critical role in a $150 billion global company with 780,000 people in 120+ countries and more than 400 office locations. Reporting to Accenture’s CIO and working directly with Accenture’s CISO, Simon had overall responsibility for the enablement of Accenture’s digital identity vision, from strategy to implementation and running of all Identity and Access Management services.
+
+---
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
