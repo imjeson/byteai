@@ -7,7 +7,7 @@ author: ByteAILab
 
 文章来源：[量子位](https://mp.weixin.qq.com/s/vAJ8fkjO73Jn0D9cYD2Z3w)
 
-图片来源：由无界AI生成
+图片来源：由GPTNB生成
 
 万万没想到，现在的**国产AI搜索**，竟然让我成功读懂了**陶哲轩**推荐的论文。
 
@@ -32,21 +32,21 @@ But！遇事不决，问问AI啊~~~
 
 然后它就“唰唰唰”地开始在网上找资源了，包括公众号文章、arXiv论文和权威期刊等等：
 
-![Image](https://appserversrc.8btc.cn/Fq9J6_giAHmMmAaotdML8exnkDxd)
+![Image](http://www.jesonc.com/Fq9J6_giAHmMmAaotdML8exnkDxd)
 
 不过这个AI接下来的表现，才是真正让人**为之意外**的，我们一步一步来看下它是怎么“求解”的。
 
 首先，这个国产AI搜索，它会**先铺垫一些背景知识**，包括什么是勾股定理，以及2位高中生新证明的故事概要。
 
-![Image](https://appserversrc.8btc.cn/FljyTTFIaWhfNoWW3Xpl5JYkFHEc)
+![Image](http://www.jesonc.com/FljyTTFIaWhfNoWW3Xpl5JYkFHEc)
 
 然后它并没有直接进入证明过程，而是继续先铺垫三角学证明和几个先决条件，信源也是可以在右侧的参考链接中追溯。
 
-![Image](https://appserversrc.8btc.cn/FgyBMue_LMr_YthjsbvUPpNHQrN1)
+![Image](http://www.jesonc.com/FgyBMue_LMr_YthjsbvUPpNHQrN1)
 
 在预备知识就绪之后，这个AI才正式开始对新证明进行阐述。
 
-![Image](https://appserversrc.8btc.cn/FuVRVvZHH5Q_oYZqslL-oNpD80CL)
+![Image](http://www.jesonc.com/FuVRVvZHH5Q_oYZqslL-oNpD80CL)
 
 每一个步骤，每一个公式，可以说是非常清晰、一目了然了。
 
@@ -60,13 +60,13 @@ But！遇事不决，问问AI啊~~~
 
 首先有请OpenAI最新推出的**ChatGPT search**，同样的问题之下，结果是这样的：
 
-![Image](https://appserversrc.8btc.cn/Fuqg3DobSbdMljcGozt8ONil_YR1)
+![Image](http://www.jesonc.com/Fuqg3DobSbdMljcGozt8ONil_YR1)
 
 嗯，生成的内容是有够短的……
 
 但这并非是个例，再来看下**Perplexity**的表现：
 
-![Image](https://appserversrc.8btc.cn/FpEVg6EFVKHQeCSKWb3I3Rb2rDU8)
+![Image](http://www.jesonc.com/FpEVg6EFVKHQeCSKWb3I3Rb2rDU8)
 
 回答依旧是非常简短，重点是它俩都没法对数学公式、证明步骤等内容做出任何解析。
 
@@ -76,7 +76,7 @@ But！遇事不决，问问AI啊~~~
 
 地址：[https://www.tiangong.cn/](https://www.tiangong.cn/)
 
-![Image](https://appserversrc.8btc.cn/FkGUY2VQcUvUAfIFEHaThDfrli61)
+![Image](http://www.jesonc.com/FkGUY2VQcUvUAfIFEHaThDfrli61)
 
 如果用四个字来形容天工AI高级搜索的特点，或许可以是“多快好省”：
 
@@ -107,19 +107,19 @@ But！遇事不决，问问AI啊~~~
 
 首先映入眼帘的，就是**超多的信源**，来感受一下这个feel：
 
-![Image](https://appserversrc.8btc.cn/FqGPOSgpeUBWxZJ929W3mnHrCNc-)
+![Image](http://www.jesonc.com/FqGPOSgpeUBWxZJ929W3mnHrCNc-)
 
 而且从天工AI搜索的资源来看，它没有仅限于我们提问的“原理”，也做了相应的发散，包括定义、研究方向和应用等。
 
 更重要的一点是，不仅生成的内容做了拓展，甚至还配上了对应的图片，颇有一种维基百科+完整科普文章的既视感了：
 
-![Image](https://appserversrc.8btc.cn/lnBE_T11k8TWGRYDdU7ugT1qcNxK)
+![Image](http://www.jesonc.com/lnBE_T11k8TWGRYDdU7ugT1qcNxK)
 
 之所以如此，是因为天工AI支持对学术论文、技术文档等的快速检索与深度解析，可以帮助研究人员迅速定位最具价值的研究成果。
 
 我们还是横向对比来看，ChatGPT search给出的答案仅是罗列式且极其简单，并且也没有做相应的拓展：
 
-![Image](https://appserversrc.8btc.cn/FtO7C843GnZ0r7nNo8MThaJDvb1q)
+![Image](http://www.jesonc.com/FtO7C843GnZ0r7nNo8MThaJDvb1q)
 
 而Perplexity这边，虽然有拓展到应用场景，但内容上还是简单提了几句，并且二者都没有做到图文并茂。
 
@@ -135,7 +135,7 @@ But！遇事不决，问问AI啊~~~
 
 老规矩，天工AI搜索还是会把超多的**权威信源**展示一波：
 
-![Image](https://appserversrc.8btc.cn/FjReQMnCwx5jM_bkEXlprgms-RWz)
+![Image](http://www.jesonc.com/FjReQMnCwx5jM_bkEXlprgms-RWz)
 
 然后它会从关键财务数据、分项业务表现、资产负债状况、现金流量、重要事件和未来发展，以及总结等多方面介绍英伟达Q3的表现。
 
@@ -149,7 +149,7 @@ But！遇事不决，问问AI啊~~~
 
 对此，天工AI搜索也是get到了：
 
-![Image](https://appserversrc.8btc.cn/Fmwm65rYUrpItKL3ItgaVwFxolRg)
+![Image](http://www.jesonc.com/Fmwm65rYUrpItKL3ItgaVwFxolRg)
 
 不难看出，天工AI将关键的数据都转变成了表格的形式，而后再基于这些数据做文字性的提炼和总结。
 
@@ -157,9 +157,9 @@ But！遇事不决，问问AI啊~~~
 
 而面对类似这种较为复杂且具总结性的问题，反观ChatGPT search和Perplexity这边，则依旧是罗列式的文字。
 
-![Image](https://appserversrc.8btc.cn/Fk6gjHmWW-GvqtDpEXQHCZxOyIeZ)
+![Image](http://www.jesonc.com/Fk6gjHmWW-GvqtDpEXQHCZxOyIeZ)
 
-![Image](https://appserversrc.8btc.cn/FmQRmr9GgFiv9b54atLraZLeCt1m)
+![Image](http://www.jesonc.com/FmQRmr9GgFiv9b54atLraZLeCt1m)
 
 这一局，天工AI搜索，win again。
 
@@ -171,7 +171,7 @@ But！遇事不决，问问AI啊~~~
 
 我们这次以**微软Q3财报**的case为例，若是把鼠标悬停在“PDF”处，页面便会弹出一个小窗口：
 
-![Image](https://appserversrc.8btc.cn/FsCTdn8jADi0sydHB8Rp0kX0uyYw)
+![Image](http://www.jesonc.com/FsCTdn8jADi0sydHB8Rp0kX0uyYw)
 
 而这正是天工AI搜索在生成结果过程中所引用的关键文档之一，要是对这个文档内容感兴趣，我们可以点击弹窗中的**深度解析**进一步了解。
 
@@ -179,13 +179,13 @@ But！遇事不决，问问AI啊~~~
 
 当然，根据报告**生成脑图**也是不在话下：
 
-![Image](https://appserversrc.8btc.cn/Fj4H_nvlNo9aXmixfgnEjaK-HGr-)
+![Image](http://www.jesonc.com/Fj4H_nvlNo9aXmixfgnEjaK-HGr-)
 
 如果你手头上有现成的需要解析的文档，天工AI搜索也是可以处理——**AI文档-音视频分析**功能。
 
 只需一个上传的动作，剩下的统统交给AI。
 
-![Image](https://appserversrc.8btc.cn/FnFS12z3z4hrF9DduQZcYI9TK-1G)
+![Image](http://www.jesonc.com/FnFS12z3z4hrF9DduQZcYI9TK-1G)
 
 例如我们把**特斯拉今年三季度的报告（英文版）**上传之后，天工AI搜索就可以从众多复杂的财务报表中提取关键数据，整理成关键指标表格（支持一键复制）。
 
@@ -193,7 +193,7 @@ But！遇事不决，问问AI啊~~~
 
 对于**超长的文档**，天工AI搜索的文档解读功能，是可以图文并茂地提炼最核心内容的哦~
 
-![Image](https://appserversrc.8btc.cn/FgA8Uyhoy7O87rhoNSAg6rLEaY6b)
+![Image](http://www.jesonc.com/FgA8Uyhoy7O87rhoNSAg6rLEaY6b)
 
 不过有一说一，对于单个文档的处理，还不能够完全体现天工AI搜索的能力，毕竟市面上的许多AI产品也是能够做到。
 
@@ -201,7 +201,7 @@ But！遇事不决，问问AI啊~~~
 
 例如我们把特斯拉和谷歌**两家公司的财务**报表一块“喂”进去，天工AI搜索**跨文档回答**用户的所有问题：
 
-![Image](https://appserversrc.8btc.cn/FrfpRIfXdrhE0Ow0FywK1PqGf9KG)
+![Image](http://www.jesonc.com/FrfpRIfXdrhE0Ow0FywK1PqGf9KG)
 
 由此可见，天工AI搜索在此次升级之后，不仅可以对复杂问题的分析推理与逐步解决，还针对学术和金融等这些强需求的领域做针对性的优化。
 
