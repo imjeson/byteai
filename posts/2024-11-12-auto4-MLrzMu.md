@@ -10,7 +10,7 @@ author: ByteAILab
 ---
 
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/8FD7B96F5E34993C64020C0DB54F4C00/1731378123431/Fpt2w-aqaXyWUbony9CE5reiMcY3.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/8FD7B96F5E34993C64020C0DB54F4C00/1731378123431/Fpt2w-aqaXyWUbony9CE5reiMcY3.png)
 
 《Now and Then》最初是约翰列侬录制的一首演示曲，他在1990年代将其交给了乐队的其他成员。当时，技术还无法清晰地将列侬的嗓音从他的钢琴声中分离出来。
 
