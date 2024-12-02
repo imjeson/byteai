@@ -1,0 +1,34 @@
+---
+
+title: 'Meta开源多模态模型——Llama 3.2'
+date: 2024-10-05
+author: ByteAILab
+
+---
+
+Meta开源了首个多模态大模型Llama-3.2，这是Llama-3系列的一次重大升级，一共有4个版本。
+
+Llama 3.2 1B、3B是整个系列最轻量级的模型，适合边缘设备和移动应用程序的检索和摘要，可用于个人信息管理和多语言知识检索等，支持 128k标记的上下文长度，可在手机、平板电脑等设备中使用。
+
+---
+
+
+值得一提的是，这两款模型在发布时便对高通和联发科的硬件进行了适配，并针对 Arm 处理器进行了优化，广泛的兼容性将加速其在各种移动和物联网设备中的应用。
+
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/8FD7B96F5E34993C64020C0DB54F4C00/1727663242402/lnj5jJJrrSmaAH_Jl6guufey7ZVb.png)
+
+11B和90B视觉模型是 Llama首次发布的多模态大模型，能理解和推理图像，实现文档分析、图像字幕和视觉问答等任务。
+
+Llama 3.2 90B版本擅长常识、长文本生成、多语言翻译、编码、数学和高级推理等，还引入了图像推理功能，可完成图像理解和视觉推理任务，能进行图像标题生成、图像文本检索、视觉基础、视觉问题解答和视觉推理，以及文档视觉问题解答等。
+
+Llama 3.2 11B版本适合内容创建、对话式人工智能、语言理解和需要视觉推理的企业应用。在文本摘要、情感分析、代码生成和执行指令方面表现出色，也增加了图像推理能力，其用例与 90B 版本类似，包括图像标题生成、图像文本检索、视觉基础、视觉问题解答和视觉推理，以及文档视觉问题解答等。
+
+根据测试数据显示，Llama 3.2模型在图像识别和视觉理解基准测试中与领先的闭源模型具有竞争力，例如，Claude 3 haiku等。
+
+开源地址：[https://www.llama.com/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=llama32](https://www.llama.com/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=llama32)
+
+![图片来源：由GPTNB生成](http://www.jesonc.com/FpkGEJio6rId-14N-EXbwxnJdVWQ)
+
+---
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

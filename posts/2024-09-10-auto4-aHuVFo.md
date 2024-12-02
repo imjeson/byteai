@@ -1,0 +1,66 @@
+---
+
+title: 'Apple intelligence 真等于 AI 么？看看昨晚出炉的 iphone16 N 大 AI 场景'
+date: 2024-09-11
+author: ByteAILab
+
+---
+
+本文来源：AI先锋官
+作者：子川
+
+一年一度的科技春晚来袭！
+北京时间凌晨1点苹果召开2024苹果秋季发布会，推出了iPhone、AirPort、Apple Watch等一系列产品。
+其中的重头戏无疑是Apple Intelligence。
+
+---
+AI 真的等于Apple Intelligence 么？
+
+**Apple Intelligence基石：芯片升级和云计算技术**
+想要在设备端运行Apple这类智能体，不仅需要超强的芯片，还需要有能容纳并快速运行大模型的内存和宽带。
+为此，Apple此次芯片直接从iPhone15的A16仿生芯片跃升到A18，跨越两代。
+![芯片](http://www.jesonc.com/FgbZUwJH0C6vRcnVcjLwP_n4vzfa)
+此款芯片专门为iPhone16设计，系统内存宽带提高了17%.
+![芯片](http://www.jesonc.com/FilyQCIWpBi-_L07knLLu5gbITOD)
+这让 iPhone16比iPhone15 CPU快30%，比iPhone12快60%。
+![芯片](http://www.jesonc.com/FsSNDuHbfAWFZlQOPvZfSpXk6HJX)
+苹果还推出了专门的Private Cloud Compute云计算技术，以让生成式模型在特别打造的服务器上运行。
+
+**Apple Intelligence的 N 个场景**
+** 定制Genmoji表情包：** 通过文字描述，就能自由定制表情包
+![表情包](http://www.jesonc.com/ltJ56LukoEtyJUybq2NY3ZsCPJlN)
+** 随时润色文字：** 只要在Apple上任何有输入法的地方，就能随时随地的润写文案.
+![润色文字](http://www.jesonc.com/FmqpSyCJguyKVF1iwRK3NBhA1Msz)
+** 很智能的图片搜索：** 面对图库中海量的图片，只需描述图片中的元素，就能找到对应的照片.
+![图片搜索](http://www.jesonc.com/FkqcIIAsXs3tTIusoaczIgnWXYHu)
+还能搜索视频中的画面.
+
+** 还能在Image Playground中还生成有趣的原创图像**
+![图像生成](http://www.jesonc.com/FpAEBm5wK1P1KT_Qc0WoRorICzvR)
+** 生成回忆视频：** 只要把脑海里的场景写下来，Apple Intelligence就会搜索出相关的视频和图片，并生成对应的视频.
+![回忆视频](http://www.jesonc.com/FoR_BHRr3nMPWV-9iLbnPWv0ybBV)
+** 邮件自动摘要：** 自动总结邮件的消息生成摘要，并优先将时间更早的消息放到收件箱的顶部.
+![邮件自动摘要](http://www.jesonc.com/FpMWMHiqpETi0crr6fMjpp86ngsg)
+** 录音转文本：** 当会议录音时，Apple Intelligence会根据转化的文本，提炼出内容摘要.
+![录音转文本](http://www.jesonc.com/FrgiRFCg-lc1j2BE_XsIwladi-IN)
+** 更自然，更应景，更懂你的Siri：** 在Apple Intelligence的加持下，Siri也变得更智能。
+即使说话不流利，Siri也能理解我们的意图.
+还能识别屏幕中的内容，比如朋友发过来一张专辑，直接说播放就可以.
+![Siri](http://www.jesonc.com/Fp-HQn0MXp6adZZ17kWIBTHNVbVB)
+还能让语音对话Siri给你的联系人换一个新地址，在某个相簿中加一组照片等等.
+还能控制Siri将周六拍的烧烤照片发Erice，Siri就会自动找到对应照片并发给Erice.
+
+** 视觉智能：** 它能帮你了解周围的环境，并能快速解答你的问题.
+拍某个餐厅，iPhone就自动弹出餐厅的信息.
+![视觉智能](http://www.jesonc.com/lon22Axk5spE-BBe2IZbx3Im67Ol)
+在墙上的海报看到一个有意思的活动，拍一下，就能知道该活动的详细信息.
+不仅如此，iPhone的相机控制功能还融入第三方工具，比如：在街上看到一款喜欢的自行车，拍个照就能上Google搜同款.
+遇到学术难题，还能调用ChatGPT来回答.
+不过此类调用第三方工具功能会在今年晚些才会到来.
+大家觉得iPhone16搭载的Apple Intelligence如何？
+值得注意的是，首批功能会随着Beta版在下个月推出，另外一些功能需要再过几个月才会相继推出.
+会优先推送给美国，12月份将陆续扩展到加拿大、新西兰、英国等地。
+而中文版的Apple Intelligence却要等到明年，或更往后.
+![中文版](http://www.jesonc.com/FiRqAr68AImI3kh6zdDHZjBTU0fC)
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

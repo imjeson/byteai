@@ -1,0 +1,16 @@
+---
+title: 'BytomDAO在东京举办AI与Web3.0创新与机遇研讨会'
+date: 2024-08-07
+author: ByteAILab
+
+---
+
+7月27日，BytomDAO在东京举办了“AI与Web3.0的创新与机遇”研讨会，吸引了众多业内人士的参与，共同探讨AI与Web3.0领域的发展现状和未来机遇。BytomDAO的CEO Charles在开场演讲中提出了AI和Web3行业的新桥梁构想，涵盖了DAO 2.0、资产 2.0（Asset 2.0）和去中心化应用 2.0（DAPP 2.0）。
+
+---
+他介绍了如何通过引入AI提高DAO的决策合理性，以及如何通过DAPP 2.0的Agent生成机制满足个体需求，消除试错成本。资产 2.0则聚焦于数字资产的智能管理。Charles还谈到BytomDAO利用在日华人资源帮助项目方进入日本市场，实现资源互通。在圆桌讨论环节中，Starknet的核心开发者Cryptonerdcn、Skyland Ventures的研究员Aya等嘉宾探讨了Layer 2解决方案的现状及未来趋势。此外，ETH Panda的Bruce Xu、Talentverse的James Wu、Jsquare的Joanna、浙大区块链协会的Artist、IOSG的Jiawei和Onekey的Hanning等嘉宾也参与了圆桌二的讨论，共同展望全球AI与Web3.0的发展格局。活动的最后，参会者们积极交流，分享见解与经验。这次活动不仅加深了业内人士对AI与Web3.0的理解，也为未来的合作带来了更多可能性。
+
+![Event Image](http://www.jesonc.com/upload/500F79EDF3F780A7F3877DE902F67058/1722320892958/FhexEU2_9hCLc7nYGrqTCTxBb8sm.jpg)
+---
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
