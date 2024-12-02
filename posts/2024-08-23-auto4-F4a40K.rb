@@ -1,0 +1,13 @@
+---
+title: '微软的AI大招“姗姗来迟”，Recall将在10月开放测试'
+date: 2024-08-24
+author: ByteAILab
+
+---
+
+<div class="article-content__container" data-v-0aea98aa="" data-v-7f057cc4=""><div class="bbt-html" data-v-7f057cc4=""><div class="ne-render-content" data-editby="ne"><p>文章来源：<a href="https://mp.weixin.qq.com/s/_903HQaEzLVcq-e6eqphUw" rel="noopener nofollow" target="_blank">硬AI</a></p><p class="ne-empty-p"><br/></p><div class="ne-atomic"><div class="ne-img-wrapper" data-align="c"><img alt="图片来源：由GPTNB生成" src="http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1724380300217/FkVYU4E2w10JUq_LlALElB3uAslH.png" style="width:100%"><div class="ne-img-desc">图片来源：由GPTNB生成</div></img></div></div><p class="ne-empty-p"><br/></p><blockquote>微软PC的AI搜索功能Recall之前每隔几秒钟截屏一次，默认状态下记录Windows中所有操作，包含用户机密信息等内容，引发安全担忧。微软6月将该功能改为默认关闭，承诺将增强其安全性。
+
+---
+</blockquote><p class="ne-empty-p"><br/></p><p>作者 | 李 丹</p><p>编辑 | 硬 AI</p><p class="ne-empty-p"><br/></p><p>两个月前，微软为旗下电脑推出的一项人工智能（AI）新功能Recall引起安全争议，如今，这个功能要准备重装上阵了。</p><p>美东时间8月21日周三，微软更新了公司博客文章，称公司致力于为客户提供值得信赖且安全的 Copilot+ PC Recall（预览版）体验，Recall将于10月向给注册用户提供预发布版本的开放软件测试项目Windows Insider 开放。正如6月13日对外分享的那样，公司调整了发布方式，在所有 Copilot+ PC上线Recall功能之前，先充分利用Windows Insider用户的宝贵专业知识。</p><p>微软称，安全依然是公司的优先要务，当Recall 10月向 Windows Insider用户开放时，将发布一篇包含更多详细信息的博客文章。</p><p class="ne-empty-p"><br/></p><div class="ne-atomic"><div class="ne-img-wrapper" data-align="c"><img alt="" src="http://www.jesonc.com/FrhFMl90YTVDducIlX7IxpUecp-n" style="width:640px"/></div></div><p class="ne-empty-p"><br/></p><p>以上更新内容标志着，微软将从10月开始，让Windows的用户测试AI搜索功能Recall，将为微软新一批PC电脑拓展先进的AI技术体验。不过，微软并未说明何时会在Windows电脑上大范围上线满足系统要求的Recall功能。</p><p>今年5月，微软在发布后上正式介绍了首批AI PC、即Copilot+PC，其合作伙伴戴尔、宏碁、华硕、惠普、联想等也将推出Windows 11 AI PC，自6月18日起陆续上市上市，微软的首批Copilot+PC搭载高通Snapdragon X ，起售价999美元，有媒体将其类比为“PC届的特斯拉”。而伴随这批PC面世的还有个坏消息：微软推出的一个主打AI PC功能Recall深陷差评风暴。</p><p>因为Recall会对电脑屏幕上的活动截图，以便用户可以搜索他们之前看到的信息。这种功能每隔几秒钟截取一次活动窗口的屏幕，在默认状态下记录用户在Windows中的所有操作，却又不做内容审核。这意味着，这种功能可以捕捉PC用户所有的屏幕内容，包括银行账户密码、机密文件等一网打尽。</p><p>网络安全研究人员很快表示，他们担心Windows 会在未经用户同意的情况下自动截取图像。研究人员发布了开源软件，展示了个人信息如何被攻击者轻松获取。面对泄露隐私、威胁个人信息安全的批评声浪，微软6月作出回应，称 Recall 将设置为默认关闭，承诺将增强该功能的安全性。</p><p>对于本周三微软公布10月开始测试Recall功能，有网友在社交媒体X评论称，Recall的确有争议，但考虑到最近在向一个孩子解释开源3D创作套件Blender时失去了耐心，所以如果微软的AI助手Copilot可以引导用户点击，那就太好了。就算不让AI看到屏幕，只是帮助用户导航，它就已经很有帮助了。Recall确实有隐私问题，但它会很棒的。</p><p class="ne-empty-p"><br/></p><div class="ne-atomic"><div class="ne-img-wrapper" data-align="c"><img alt="" src="http://www.jesonc.com/Fsbl9Inx2Ez3EvIbl14zYwdZ3B3a" style="width:640px"/></div></div><p class="ne-empty-p" rel="nofollow noopener"><br/></p></div></div>
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
