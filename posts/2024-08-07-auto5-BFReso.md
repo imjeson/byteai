@@ -31,8 +31,6 @@ author: ByteAILab
 
 CogVideoX 开源模型包含多个不同尺寸大小的模型，目前智谱 AI 开源 CogVideoX-2B，它在 FP-16 精度下的推理仅需 18GB 显存，微调则只需要 40GB 显存，这意味着单张 4090 显卡即可进行推理，而单...
 
-```markdown
 Continued in next message...
-```
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

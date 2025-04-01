@@ -50,9 +50,7 @@ Everingham 奖
 
 ---
 
-```markdown
 Content with image links here...
-```
 
 ---
 ---

@@ -88,8 +88,6 @@ LucaOne 的核心亮点在于其独特的自监督加半监督学习架构，该
 
 ---
 
-```plaintext
 请将Body部分的内容转化为不带html标签的Makedown的内容。再整体按照如下Makedown格式标准输出。
-```
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

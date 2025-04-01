@@ -36,10 +36,8 @@ author: ByteAILab
 
 ---
 
-```Markdown
 ![图片来源：由GPTNB生成](http://www.jesonc.com/upload/3B33CB85B496C0CB6FBA4C2BD79320AD/1723704516349/FpRSa4x08wXu0FxqaGj5i69eI4W4.png)
 
-```
 ---
 
 如果继续需要下方内容，请告诉我。
