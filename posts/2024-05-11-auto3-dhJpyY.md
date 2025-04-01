@@ -17,6 +17,5 @@ AIQ比当前其他任何技术检测到更多应用程序缺陷，速度快1000�
 
 要了解有关DMI/Appvance合作伙伴关系和联合解决方案的更多信息，请访问www.appvance.ai/news
 
-探索AITechPark，获取人工智能、物联网、网络安全、AITech新闻以及行业专家的深入见解！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

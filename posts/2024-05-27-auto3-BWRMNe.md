@@ -49,7 +49,6 @@ CloudFabrix Macaw GenAI助手将在GenAI峰会上展示，地点为旧金山花�
 - Macaw Generative AI演示
 - Forbes - 数据在GenAI方面仍然是王者
 - Forbes：GenAI Marketscape - 动摇者、制造者和接受者
-- 浏览AITechPark，获取AI、IOT、网络安全、AITech新闻以及行业专家的深入更新！
 
 ---
 ---

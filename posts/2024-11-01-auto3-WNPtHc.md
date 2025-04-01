@@ -26,7 +26,6 @@ Luhrsen拥有印第安纳大学凯利商学院的商学学士学位。
 
 Luhrsen的任命是在Riverbed平台最近的推出以及宣布数项新的数据可观测性和AIOps解决方案之后进行的，其中包括用于克服网络盲点的Aternity Mobile、Riverbed IQ 2.0、以及Riverbed统一代理的第三方模块 — Aternity for Intel Thunderbolt和Wi-Fi。此外，Riverbed最近因许多解决方案获得了行业认可，包括：在2024年Gartner®数字员工体验管理工具（DEX）魔力象限（Magic Quadrant™）中的领导者；在2024年GigaOm网络可观测性雷达报告中的领导者；在2024年GigaOm AIOps雷达报告中的表现者；以及在2024年Gartner®数字体验监控（DEM）魔力象限（Magic Quadrant™）中的有远见者。
 
-浏览AITechPark，了解人工智能、物联网、网络安全、AITech新闻的最新进展，以及来自行业专家的深刻更新！。
 
 ---
 ---

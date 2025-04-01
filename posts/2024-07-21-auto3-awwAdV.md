@@ -26,7 +26,6 @@ ISG表示，该地区需要可扩展计算和规模经济的公司正在与托�
 定制版本的报告可从塔塔通信处获得。
 在客户体验领域，绿色被评为2024年全球ISG CX Star Performer私有/混合云服务提供商。绿色在ISG全球优秀之星™计划的客户之声调查中获得了最高的客户满意度评分，该计划是技术和业务服务行业的首要质量认可。
 2024年ISG Provider Lens™ Private/Hybrid Cloud — Data Center Solutions亚太报告可供订户购买或一次性采购这个网页上的内容。
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻，并从行业专家获得深刻见解！
 
 ---
 请注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Makedown源文件格式内容。

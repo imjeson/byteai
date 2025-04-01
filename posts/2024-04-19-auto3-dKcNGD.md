@@ -33,7 +33,6 @@ NeuReality的解决方案提供了前所未有的开发人员体验，显著增�
 
 访问新的软件开发者门户网站并了解更多信息：developer.neureality.ai。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的深刻更新！
 ---
 
 ---

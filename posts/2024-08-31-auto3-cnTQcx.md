@@ -26,6 +26,5 @@ Juniper Beyond Labs
 Juniper量子安全IPsec VPN概述
 Day One：量子安全IPsec VPNs
 
-探索AITechPark，获取人工智能、物联网、网络安全、人工智能技术新闻以及行业专家的见解的最新进展！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

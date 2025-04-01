@@ -27,7 +27,6 @@ Ark对Vantyr的收购预计将巩固Ark在网络安全行业的领导地位，�
 
 Great Elm Solutions, Inc.担任Ark和Vantyr的财务顾问和交易经纪人。交易细节保持机密，不受监管约束。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的深刻见解！
 
 ---
 ---

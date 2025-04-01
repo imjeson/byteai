@@ -23,7 +23,6 @@ emtelligent，作为临床级医疗AI软件开发领域的领导者，今天宣�
 emtelligent的产品经过精心设计，具备在当前复杂的医疗环境中运行所需的增强准确性和精度，使医疗组织能够将非结构化数据转化为可操作的见解，并以企业规模实现。emtelligent Medical Language Engine 使用大型语言模型（LLMs）和先进的 AI 将数百万条记录的非结构化临床文本转换为易于访问的结构化医疗数据。Document Manager是一款文档分割和信息提取引擎，可以识别、分类和整理纸质表格和复杂的医疗文件，将它们数字化并立即提供使用。
 通过emtelligent 的 Clinical Workflow、Medical Language Engine 和 Document Manager，医疗组织可以访问他们需要的数据，以发现可以部署以满足任何医疗业务临床数据需求的临床见解。
 
-探索 AITechPark，获取人工智能、物联网、网络安全、AITech News以及行业专家见解的最新进展！
 
 
 ---

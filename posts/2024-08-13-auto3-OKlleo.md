@@ -32,6 +32,5 @@ eSentire的MDR服务结合了其开放的、以人工智能为驱动的Extended 
 
 在2024年8月13-15日于拉斯维加斯举行的TD SYNNEX SMB Connect Symposium上，加入eSentire。在此查看TD SYNNEX的eSentire服务提供。
 
-浏览AITechPark，了解人工智能、物联网、网络安全、AITech新闻等领域的最新进展，以及来自行业专家的见解！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

@@ -24,7 +24,6 @@ Sift首席产品官Raviv Levi表示：“ThreatClusters代表了我们使企业�
 除了ThreatClusters，Sift的最新版本还包括其他关键创新，可优化评分准确性，并使欺诈和风险团队更轻松地检测不同用例中的复杂欺诈行为，包括支付欺诈和账户接管。
 
 有关ThreatClusters和Sift最近创新内容的更多信息，请访问Sift博客这里。
-探索AITechPark，获取人工智能、物联网、网络安全、AITech新闻以及行业专家的深入见解！
 
 ---
 ---

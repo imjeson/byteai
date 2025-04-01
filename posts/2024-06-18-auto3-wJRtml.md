@@ -32,6 +32,5 @@ Oracle APEX 中的新AI增强功能包括:
 
 新版本的 Oracle APEX 可以立即使用，将在 7 月 14 日至 18 日在纳什维尔，田纳西州举办的 ODTUG Kscope24 上展示。
 
-探索 AITechPark，了解人工智能、物联网、网络安全、AITech 新闻的最新进展，以及来自行业专家的见解！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

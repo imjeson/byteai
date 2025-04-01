@@ -19,7 +19,6 @@ Gartner声明
 Gartner机器人流程自动化魔力象限图，Arthur Villa | Saikat Ray | Mike Helsel | Melanie Alexander | Sachin Joshi，2024年8月。
 GARTNER是Gartner, Inc.及其关联公司在美国和国际上的注册商标和服务标记，而MAGIC QUADRANT是Gartner,Inc.的注册商标之一，特此获得许可使用。保留所有权利。
 Gartner不认可在其研究出版物中描述的任何供应商、产品或服务，也不建议技术用户仅选择那些获得最高评级或其他指定的供应商。Gartner研究出版物包含Gartner研究组织的意见，不应被解释为事实陈述。Gartner对于这项研究，包括对适销性或特定用途的任何明示或暗示的保证，均不承担责任。
-探索AITechPark，了解AI、IOT、网络安全、AITech新闻并从行业专家那里获得见解！。
 
 ---
 ---

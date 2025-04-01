@@ -22,6 +22,5 @@ CloudCasa的最新版本引入了若干关键增强功能，简化了Kubernetes�
 
 在此版本发布之际，CloudCasa团队将于4月1日参加KubeCon伦敦。CloudCasa用户和其他Kubernetes爱好者可以与团队见面，探索CloudCasa如何进一步支持他们的Kubernetes备份和恢复需求。
 
-探索AITechPark，了解AI、物联网、网络安全、AITech新闻以及来自行业专家的最新进展！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

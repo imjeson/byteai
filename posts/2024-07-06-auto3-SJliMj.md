@@ -27,7 +27,6 @@ Cohen补充道：“随着我们不断推进精准健康的前沿，我们的使
 
 DecodyGPT现已向所有SelfDecode用户开放，为导航健康和福祉的复杂性提供了一种变革性新方式。要了解更多并体验个性化健康的未来，请访问selfdecode.com。
 
-探索AITechPark，获取人工智能、物联网、网络安全、AITech News的最新进展，以及来自行业专家的见解！。
 
 注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Makedown源文件格式内容。
 ---

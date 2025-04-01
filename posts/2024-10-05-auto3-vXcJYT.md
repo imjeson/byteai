@@ -17,7 +17,6 @@ Billables AI最初专注于法律行业，通过自动化日常运营任务，�
 “Billables AI正在解决专业服务领域的明显需求，”Wing VC合伙人Tanay Jaipuria表示。“他们正在通过将AI应用于记时和计费来解决这些公司每天面临的基本运营挑战之一，这是这些公司面临的最大行政负担之一。这将改变专业人士跟踪和管理他们最有价值的资产—时间的方式。”
 Billables AI刚于今年6月推出。该公司由Arvind Sujeeth和Nancy Jeng创立，后来加入了Laura Maddox担任创始工程副总裁。团队在人工智能、B2B SaaS产品开发和营销方面拥有丰富背景。Sujeeth曾在SambaNova Systems开发企业AI平台，Jeng在Pinterest担任全球产品营销负责人，Maddox在Mya Systems构建对话式AI。
 了解有关Billables AI的更多信息，请访问billables.ai。
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及来自行业专家的深刻更新！
 
 ---
 ---

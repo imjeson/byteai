@@ -28,7 +28,6 @@ Q Assist提供由Quantexa的决策智能平台支持的可信、可扩展的AI�
 Q Assist集成层：Q Assist的神经中枢。这是一个工具、连接器和API框架，旨在安全地将Quantexa的决策智能平台与LLMs和对话式AI系统紧密连接在一起。Q Assist Prompt Builder：一种可扩展的提示管理和共享能力，可轻松集成外部提示工程工具和框架，如Microsoft的Azure Prompt Flow、语义内核或AutoGen，将权力交到管理员手中，定义和控制基于Quantexa决策智能平台生成的上下文数据的提示和响应。Q Assist Copilot：允许用户通过自然语言界面查询大量不同的数据，实时了解和总结数据、见解和发现，并自动研究、调查和报告任务。
 如今，该公司将Q Assist生成式AI技术套件功能提供给有限的一组客户，计划于2025年初公开提供。
 要了解更多有关Quantexa如何帮助组织为AI做好数据准备的信息，或下载Forrester关于Quantexa决策智能平台的总体经济影响报告并开始衡量决策智能投资的投资回报，请访问 https://www.quantexa.com/discover/ai/。
-欢迎访问AITechPark，了解AI、物联网、网络安全、AI技术新闻的最新进展和来自行业专家的见解。
 
 ---
 ---

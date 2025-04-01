@@ -20,7 +20,6 @@ The partnership announcement comes alongside The Agriculture & Robotics Summit, 
 
 “The new use cases and overall necessity for robotics innovation in agriculture have accelerated the sector’s investment potential, and we will explore investments in agriculture and climate robotics to add to our solid portfolio,” said Saad. “The work the Pittsburgh Robotics Network is doing to bring the industry’s largest customers together with the brightest minds in robotics is exactly in line with how we like to approach robotics business building at Cybernetix.”
 
-Explore AITechPark for the latest advancements in AI, IoT, Cybersecurity, AITech News, and insightful updates from industry experts!
 ---
 
 ---

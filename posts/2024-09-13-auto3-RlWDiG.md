@@ -21,7 +21,6 @@ Network Optix的商务发展副总裁詹姆斯·考克斯（James Cox）表示�
 
 GSX 2024的与会者被鼓励访问MemryX的展台（#2444），了解更多有关该公司AI加速器以及改变边缘AI部署的机会的信息。要了解更多关于MemryX解决方案以及其在GSX 2024中的参与情况，请访问MemryX网站（memryx.com）或GSX网站（gsx.org）。合作伙伴信息可从Network Optix（networkoptix.com）和Dynics, Inc（dynics.com）获取。
 
-探索AITechPark，了解人工智能，物联网，网络安全，人工智能新闻以及来自行业专家的见解的最新进展！ 
 
 ---
 ---

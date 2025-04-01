@@ -19,6 +19,5 @@ MemryX将在公开展示其领先行业的MX3 Edge AI加速器的若干能力。
 
 GSX 2024的参与者被鼓励访问MemryX的展台（#2444），了解公司的人工智能加速器以及改变边缘人工智能部署的机会。要了解更多关于MemryX解决方案及其在GSX 2024中的参与情况，请访问MemryX网站memryx.com，或GSX网站gsx.org。合作伙伴信息可以从Network Optix（networkoptics.com）和Dynics, Inc（dynics.com）获得。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻的最新进展，以及来自行业专家的深刻更新！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

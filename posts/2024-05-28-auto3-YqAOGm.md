@@ -28,7 +28,6 @@ Frost & Sullivan的推动技术领导奖表彰那些通过新方式应用技术�
 关于Virtualitics
 Virtualitics是Explainable AI决策智能领域的领导者，改变着企业和政府的决策-making。我们的AI驱动平台和应用具有10年加利福尼亚理工学院研究的基础，用互动的、可理解的、视觉上引人入胜的AI工具增强数据分析。Virtualitics为政府和企业所信任，使AI可访问、可操作、透明，不管是分析师、数据科学家还是领导者，都能带来显著的业务结果。更多信息，请访问virtualitics.com。
 
-探索AITechPark，获取人工智能、物联网、网络安全、AITech新闻的最新进展以及来自行业专家的见解！
 
 ---
 ---

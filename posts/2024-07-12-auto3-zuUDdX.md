@@ -19,7 +19,6 @@ Samsung Research的AI-RAN联盟理事Ardavan Tehrani表示:“AI-RAN联盟很高
 
 Keysight的6G和下一代技术副总裁Giampaolo Tardioli表示：“凭借我们在模拟、建模和测量科学领域的深厚专业知识，Keysight将提供有价值的解决方案，加快在RAN中部署AI并改善AI模型在RAN中的准确性和可信度。加入AI-RAN联盟是一个自然的选择，也是Keysight致力于促进通信和计算行业创新的又一个证明。我们期待与其他联盟成员合作，帮助充分发挥AI在无线系统中的潜力。”
 
-探索 AITechPark，获取人工智能、物联网、网络安全、AITech新闻以及行业专家见解的最新进展！
 
 ---
 ---

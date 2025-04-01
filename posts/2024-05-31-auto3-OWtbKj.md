@@ -19,7 +19,6 @@ titleLOOK® 是一种软件即服务（SaaS）产品，为标题制作流程提
 Mainspring Services®
 Mainspring Services成立于2016年，以对标题和代管行业的深刻理解为荣。我们是titleLOOK®的创造者，这是一种SaaS产品，为标题承诺和初步标题报告提供了真正的数字化格式。mainspringservices.com
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻及来自行业专家的深刻更新！
 
 ---
 

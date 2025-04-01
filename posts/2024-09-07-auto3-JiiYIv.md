@@ -18,6 +18,5 @@ Native vector support – Enable large-scale similarity searches for AI systems
 Progress also released a new application, MarkLogic® Flux™, to add improved data movement and transformation capabilities to the core functionality of the MarkLogic platform. These include support for significantly more data sources, such as relational databases and cloud storage systems like Amazon S3, as well as better performance through faster ingestion of extremely large, high-volume data, supporting any operational, analytical or AI workload.
 The Progress MarkLogic platform, which includes MarkLogic Server, combines multi-model data management with real-time, relevance-based search and semantic capabilities to provide an adaptable, secure foundation for an organization’s GenAI solutions. They can leverage GenAI in their enterprise with a flexible RAG architecture that augments LLMs with domain-specific knowledge to increase response accuracy, democratize access to information across the organization and power AI-enhanced applications.
 To learn more about MarkLogic Server 12, [click here](https://ai-techpark.com/progress-announced-progress-marklogic-server-12-early-access/).
-Explore AITechPark for the latest advancements in AI, IOT, Cybersecurity, AITech News, and insightful updates from industry experts!
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

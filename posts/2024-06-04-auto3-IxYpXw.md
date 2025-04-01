@@ -36,7 +36,6 @@ author: ByteAILab
 加强数字技能和人才发展
 日立将培训超过5万名GenAI专业人才。作为该合作伙伴关系的一部分，日立将将使用GitHub Copilot和Azure OpenAI服务获得高级软件开发技能的培训融入到该计划中，培养支持客户转型使用人工智能的GenAI专业人才。
 
-探索 AITechPark，了解人工智能、物联网、网络安全、AITech 新闻以及行业专家的深度见解！
 
 ---
 ---

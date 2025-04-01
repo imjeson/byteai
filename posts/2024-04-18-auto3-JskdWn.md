@@ -19,7 +19,6 @@ Symptom Tracking利用自然语言处理（NLP）扫描和挖掘治疗生态系�
 要了解更多关于Symptom Tracking的信息，请安排与Core的会议。
 Symptom Tracking还嵌入在Cx360 EHR中，为Core高度可配置的EHR用户提供了另一个工具，以加强他们在护理生态系统中的表现。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及来自行业专家的见解更新！
 ---
 
 ---

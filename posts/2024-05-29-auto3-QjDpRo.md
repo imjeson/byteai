@@ -24,7 +24,6 @@ Veeam合作伙伴的新Veeam技术专业培训可通过Veeam ProPartner门户进
 
 VMCE现场培训和认证考试机会可在2024年6月3-5日在佛罗里达州好莱坞外交官度假村举行的第十届VeeamON活动中找到。VeeamON 2024的钻石赞助商包括ExaGrid、惠普企业、联想和微软; 白金赞助商包括Backblaze、日立、Pure Storage、Scality和Wasabi; 还有其他许多赞助商。立即注册参加VeeamON 2024现场活动或免费参加线上活动。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的见解更新！。
 
 ---
 ---

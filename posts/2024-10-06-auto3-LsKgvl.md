@@ -14,7 +14,6 @@ IQVIA AI助手建立在IQVIA医疗级人工智能™的基础之上，这是IQVI
 “IQVIA AI助手为我们的生命科学和医疗客户提供所需的准确性、速度和信任。通过这项专为生产的人工智能技术，我们正在实现加速创新、创造更健康世界的使命。” IQVIA数字产品和解决方案高级副总裁Bernd Haas表示。
 IQVIA正在将其AI助手集成到产品组合中的多项解决方案中，包括IQVIA Orchestrated Analytics、ChannelDynamics®Verbatim、Market Prognosis和Clinical Data Analytics Solutions。对于所有这些解决方案，AI助手的加入提供了独特的获取接近实时洞察的途径，而以前需要专家数小时甚至数天的工作。作为战略的一部分，将更多集成IQVIA AI助手的解决方案纳入路线图，让更多客户能够驱动医疗行业变革，加快行业前进速度。
 了解更多信息请访问https://www.iqvia.com/AIAssistant。
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的深刻见解！
 
 ---
 ---

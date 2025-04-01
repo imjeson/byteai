@@ -16,6 +16,5 @@ Salesforce Ventures管理合伙人Paul Drews表示：“在过去这一年中，
 
 ---
 
-请访问AITechPark，了解AI、物联网、网络安全、AI科技新闻和来自行业专家的见解！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

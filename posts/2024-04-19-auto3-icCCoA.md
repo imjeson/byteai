@@ -18,7 +18,6 @@ GFI Software的首席执行官埃里克·沃恩（Eric Vaughan）表示：“这
 - GFI ClearView AI 添加了AI驱动的Traffic Insights功能，让组织能够了解网络流量模式并彻底优化网络流。
 - GFI LanGuard AI 引入了LAN Insights，用于增强网络安全和性能监控，具有自动化威胁检测和响应功能。
 此次发布标志着GFI在持续创新方面取得了重要进展。该公司致力于开发AI驱动的功能，将继续重新定义行业标准，并帮助组织在日益复杂的数字领域取得成功。
-浏览 AITechPark 了解最新的AI、IOT、网络安全、AI技术新闻以及来自行业专家的深刻更新！
 
 ---
 

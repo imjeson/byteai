@@ -14,7 +14,6 @@ Riveron，一家由Kohlberg & Company支持的业务咨询公司，今天宣布�
 Yantra由Vikram Bhandari于2009年创立，员工约300人，分布在美国、加拿大、印度和菲律宾。Bhandari将加入Riveron担任首席技术和创新官，为多个领域的客户提供服务，包括对首席财务官如何实际应用人工智能的全新视角。通过收购，Riveron大幅扩展团队规模，全球专业人员总数增至1000余人。“多年来，Yantra帮助客户在不同的技术和业务领域实现数字转型，” Bhandari表示。“现在，作为Riveron的一部分，我们很高兴能在共同承诺增长和为客户提供下一代技术的道路上发挥关键作用。”
 Shaw补充道，“Yantra的传统深深扎根于推动创新。这一收购将巩固Riveron作为技术和变革领导者的地位，强化我们为客户提供价值的能力。展望未来，我们的联合优势将使我们能够为全球客户提供独特的竞争优势和持续成功。”
 交易条款未披露。Canaccord Genuity担任Riveron的财务顾问。Ropes & Gray担任Riveron的法律顾问。Telegraph Hill Advisors担任Yantra的财务顾问，Sklar Kirsh LLP担任Yantra的法律顾问。
-Explore AITechPark，获取人工智能、物联网、网络安全、AI技术新闻以及行业专家的深刻更新！
 
 ---
 ---

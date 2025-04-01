@@ -27,7 +27,6 @@ Nightfall的整个DLP平台提供了一套全面的功能，包括即插即用�
 
 在公司网站上了解更多关于Nightfall的AI防火墙，或通过向sales@nightfall.ai联系Nightfall销售团队安排演示。
 
-在AITechPark中探索AI、物联网、网络安全、AITech新闻以及行业专家的见解！
 
 ---
 ---

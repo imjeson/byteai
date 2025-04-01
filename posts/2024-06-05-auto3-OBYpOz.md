@@ -29,7 +29,6 @@ Matillion的Snowpark容器服务集成使客户能够在其Snowflake账户内安
 
 Snowflake AI组件的添加是Matillion自2023年末宣布其AI愿景以来推出的一系列新产品中的最新一项。今年三月，Matillion率先推出其平台，将推进ELT和推进GenAI统一起来，以帮助数据工程师更快地构建分析和人工智能管道。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech News的最新进展以及业内专家的深入见解！。
 
 注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Makedown源文件格式内容。
 

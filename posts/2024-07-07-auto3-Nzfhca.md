@@ -15,6 +15,5 @@ Mills获得了来自克莱姆森大学的公共管理硕士学位，并完成了
 Ken Mills表示：“我长期以来一直钦佩代理商业务，Intelisys的合作伙伴们是如此具有企业家精神，他们为最终用户带来了巨大的价值。”“我很高兴能参与一家投资未来、并继续以合作伙伴为先的策略构建有意义业务的公司。”
 Mills将向Mike Baur汇报。
 有关Intelisys的更多信息，请访问www.intelisys.com。
-探索AITechPark，了解人工智能、物联网、网络安全、AITech News等领域的最新进展，以及行业专家的见解！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

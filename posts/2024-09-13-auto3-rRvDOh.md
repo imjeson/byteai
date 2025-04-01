@@ -26,6 +26,5 @@ Hubbl 和 Swantide 的合作解决了对系统健康、漏洞和复杂性缺乏�
 
 两家公司将出席 Dreamforce 2024，分别在 Hubbl Technologies 展位（AI Showcase: Moscone South Campground #3）和 Zennify Zenn Sky Lounge 展位。
 
-在 AI、IOT、网络安全、AI技术新闻和行业专家见解方面，探索 AITechPark 的最新进展！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

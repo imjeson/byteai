@@ -19,7 +19,6 @@ Proven Optics成立于2020年，旨在为IT和财务领导者提供分析和洞�
 
 “我们很高兴与Bill、Ben以及整个Proven Optics团队合作，”CloudGenera创始人兼CEO Brian Kelly在加入Proven Optics担任产品执行副总裁时表示。“我们将共同为客户提供一套全面的工具，以增强IT价值，并促进对其云基础架构进行跨部门决策。”
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的深刻更新！
 
 ---
 

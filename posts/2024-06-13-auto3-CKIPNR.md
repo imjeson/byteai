@@ -23,7 +23,6 @@ Automation Anywhere的生成式人工智能自动化与Amazon Q可以显著增�
 
 去年，Automation Anywhere宣布与AWS达成战略合作协议(SCA)，将新的流程自动化和生成式人工智能解决方案引入市场，建立在两家公司多年合作关系的基础之上，这种关系从核心基础架构发展到了应用层与人工智能。Automation Anywhere继续利用Amazon SageMaker JumpStart、Amazon Bedrock和其他AWS人工智能和机器学习服务开发具体的生成式人工智能解决方案，涵盖客户体验、文档处理和联系中心智能。Automation Anywhere还加入了AWS独立软件供应商(ISV)加速计划，这是一个针对AWS合作伙伴的合作计划，提供运行在AWS上或与AWS集成的软件解决方案，进一步加强了两家公司的市场合作关系。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻，并获取来自行业专家的深入洞察！
 
 ---
 ---

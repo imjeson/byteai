@@ -15,7 +15,6 @@ Abridge已经在Reid的某些临床医生中使用了六个月，现在将提供
 “我用Abridge来使用三种不同的南亚方言，它们都无缝和完美。我可以按照我习惯的方式进行实践，因为产品可以适应我和我的需求，”Reid的家庭医学医生Annuradha Bhandari说。“医疗解决方案很少真正为医生提供护理方式，同时确实是以患者为中心设计。”
 “如今，临床医生面临着与更少资源看更多患者的巨大压力，”Abridge的首席执行官和创始人Dr. Shiv Rao说。“我们正与像Reid Health这样的创新性健康系统合作，以恢复医疗体验的人性化。”
 这一消息是在Abridge在Vermont大学医疗网络、CHRISTUS Health、UChicago Medicine、Sutter Health、Yale New Haven Health System、UCI Health、Emory Healthcare、堪萨斯大学医疗系统、UPMC等数十个医疗系统的成功部署之后发布的。最近，Mayo Clinic、Epic和Abridge合作推出了面向护士的生成式人工智能环境文档工作流。今年早些时候，Abridge宣布了一笔1.5亿美元的C轮融资，其中包括英伟达的战略投资。
-在 AITechPark 上探索最新的人工智能、物联网、网络安全、AI科技新闻和来自行业专家的见解更新！
 
 ---
 ---

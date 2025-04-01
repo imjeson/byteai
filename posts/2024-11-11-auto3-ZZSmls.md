@@ -23,7 +23,6 @@ SiMa.ai首席商务官Elizabeth Samara-Rubio表示：“Palette Edgematic登陆A
 
 更多信息请查看[这里](https://ai-techpark.com/sima-ai-launches-palette-edgematic-on-aws-marketplace/)。 可以提交Edgematic Early Access Program应用[这里](https://ai-techpark.com/sima-ai-launches-palette-edgematic-on-aws-marketplace/)
 
-探索AITechPark，获取人工智能、物联网、网络安全、AITech News的最新进展，并从行业专家那里获得见解!
 
 ---
 ---

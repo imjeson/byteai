@@ -21,7 +21,6 @@ Additional Resources:
 Register for SingleStore Now here
 Try SingleStore for free
 Follow SingleStore on X, LinkedIn, and Instagram
-Explore AITechPark for the latest advancements in AI, IoT, Cybersecurity, AITech News, and insightful updates from industry experts!
 
 ---
 ---

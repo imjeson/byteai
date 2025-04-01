@@ -18,7 +18,6 @@ GiantLeap Capital的高级执行顾问Sunit Patel表示：“我们很高兴能�
 
 GiantLeap Capital的联合创始人和董事总经理Himanshu Sekhar和Samir Parikh表示：“我们很高兴在Vantage迎来关键的增长转折点，并协助为超大规模用户提供最迫切的基础设施需求。GiantLeap及其全球的执行合伙人和顾问网络，包括Sunit Patel，期待支持Vantage和其下一阶段的增长。Vantage是全球云和技术平台中最重要的公司之一，它有望帮助加快云和基于人工智能技术的采用。”
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的深刻更新！
 
 ---
 ---

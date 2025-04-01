@@ -29,7 +29,6 @@ Gartner，“机器人流程自动化魔力四象限”，Saikat Ray，Arthur Vi
 Gartner不认可研究报告中描绘的任何供应商、产品或服务，并不建议技术用户仅选择具有最高评级或其他标识的供应商。Gartner研究报告包括Gartner研究组织的意见，不应被视为事实陈述，Gartner对此研究不做任何形式的保证，包括任何适销性或适合特定目的的保证。
 GARTNER 是 Gartner, Inc.及/或其在美国和国际上的附属公司的注册商标和服务标记，Magic Quadrant 是 Gartner, Inc.及/或其附属公司的注册商标，并在此处使用许可。保留所有权利。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及行业专家的深刻更新！ 
 
 ---
 ---

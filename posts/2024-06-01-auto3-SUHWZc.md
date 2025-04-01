@@ -14,7 +14,6 @@ Accelerated Design-to-Production WorkflowsWhile design systems are a must for de
 Next-Level Accessibility and InclusivityRecent global research commissioned by Progress shows that 76% of developers consider building human-centric applications – with accessibility at the core – more important than it was two years ago. To help them advance their efforts and address users’ specific needs, the Telerik and Kendo UI libraries are compliant with Section 508, WCAG 2.2 and WAI Aria. In addition, all web chart components provide built-in accessibility and keyboard navigation to make data visualizations accessible to all.
 Progress also released new capabilities for embedded data-driven experiences with reporting and visualization features, modernization of legacy projects with support for complex migration scenarios and support for .NET 9 Preview.
 To learn more about the latest Telerik and Kendo UI releases, visit the release overview page or register for the release webinars: Progress Telerik 2024 Q2 Release Webinar—Web, Desktop, Mobile & Cross-Platform Products, Progress Kendo UI 2024 Q2 Release Webinar and Progress Telerik Reporting, JustMock and Fiddler 2024 Q2 Release Webinar
-Explore AITechPark for the latest advancements in AI, IOT, Cybersecurity, AITech News, and insightful updates from industry experts!。![图片](https://ai-techpark.com/wp-content/uploads/2024/05/Progress-960x540.jpg){ width=60% }
 
 ---
 请先将这篇文章翻译为中文，Title部分内容需要翻译为中文。最后只需要输出为Makedown源文件格式内容。

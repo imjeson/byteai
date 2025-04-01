@@ -25,7 +25,6 @@ Eric Bowlin，合作伙伴，风险与财务咨询，德勤Touche LLP“OneTrus
 
 了解更多关于OneTrust合作伙伴计划的信息。该计划将从2024年8月开始推出，合作伙伴今天可以开始使用OneTrust。有关OneTrust合作伙伴计划的更多信息，请访问www.onetrust.com/partners/参加我们即将举行的网络研讨会以深入了解：NAMER、EMEA注册参加2024年5月20-22日在德克萨斯州奥斯汀举行的TrustWeek 2024，了解行业特定会话、参加实践课程和深入了解OneTrust的最新创新：www.onetrust.com/trustweek/
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻和行业专家的见解！。注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Makedown源文件格式内容。
 
 ---
 ---

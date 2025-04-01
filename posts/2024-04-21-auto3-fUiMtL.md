@@ -20,7 +20,6 @@ SAS INNOVATE — 今天在SAS Innovate上，SAS - 数据和AI解决方案的先�
 Sglavo表示：“SAS模型为组织提供了灵活、及时、可访问的AI，与行业挑战保持一致。”。“无论您是开始AI之旅还是寻求加速整个企业扩展AI，SAS在满足您业务独特需求方面具有无与伦比的深度和广度。”
 预计第一批SAS模型将于今年晚些时候正式推出。在此处了解更多关于SAS Applied AI和建模的内容：https://blogs.sas.com/content/tag/applied-ai-modeling/。
 今天的公告是在SAS Innovate上发布的，这是面向业务领导者、技术用户和SAS合作伙伴的数据和人工智能体验。通过关注@SASsoftwareNews上的最新消息，了解来自SAS的最新消息。
-探索AITechPark，了解人工智能，物联网，网络安全，AI技术新闻和行业专家的见解的最新进展！
 ---
 
 ---

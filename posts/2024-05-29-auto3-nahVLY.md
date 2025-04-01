@@ -25,7 +25,6 @@ Dashlane Nudges在拉斯维加斯的Identiverse 2024上首次亮相，这是一�
 参加会议的与会者可以在第1601号展台的Pinyon宴会厅找到Dashlane。
 其他资源：
 博客：Dashlane首席执行官约翰·贝内特撰写的《凭证安全的未来从这里开始》博客：Dashlane在Identiverse 2024: 让安全访问更易得
-在AITechPark上探索，了解人工智能、物联网、网络安全、AITech新闻的最新进展，以及行业专家的见解！
 
 ---
 ---

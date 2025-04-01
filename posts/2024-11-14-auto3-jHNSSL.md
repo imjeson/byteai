@@ -20,7 +20,6 @@ AWS生成AI合作伙伴创新联盟还包括诸如Booz Allen Hamilton、Crayon�
 
 MegazoneCloud AWS业务负责人Incheol Hwang表示：“与AWS合作伙伴创新联盟中的另外八家全球合作伙伴一起，突显了MegazoneCloud通过各种生成AI项目建立的能力和成就。在此联盟内合作使我们能够通过参考不同的国际用例为国内客户支持生成AI实施。”
 
-探索AITechPark，获取人工智能、物联网、网络安全、AITech新闻以及行业专家见解的最新进展！。
 
 ---
 ---

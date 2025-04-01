@@ -20,7 +20,6 @@ BenevolentAI首席执行官Joerg Moeller博士表示：“很高兴与Catherine�
 
 根据《欧盟市场操纵（市场操纵法规）第17(1)条的规定公开内幕信息。
 
-访问AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及来自行业专家的深刻更新！
 
 ---
 ---

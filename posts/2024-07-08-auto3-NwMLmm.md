@@ -16,7 +16,6 @@ Sanctuary AI的联合创始人、首席技术和产品官Olivia Norton表示：�
 BDC Capital的Thrive Venture基金董事合伙人Michelle Scarborough表示：“在BDC Capital，我们自豪地投资于像Sanctuary AI这样颠覆当今市场的加拿大最具创新性的女性领导企业。我们很高兴支持Sanctuary AI团队实现他们的下一个突破性成就。”
 InBC首席投资官Leah Nguyen表示：“我们已投资于Sanctuary，其使命是帮助在不列颠哥伦比亚省建立一个新的增长产业。Sanctuary是不列颠哥伦比亚省创新和创意精神的一个很好的例子，通过投资于领先创新者如Sanctuary，我们将继续发展我们的科技行业，创造新的就业机会，并将知识产权扎根于该省，打造一个更加强大、更可持续的经济，让每个人受益。”
 Olivia Norton将在7月10日于蒙特利尔举行的BDC第五届Women in Tech Bootcamp at StartupFest上由Leah Nguyen主持关于“解决困难问题”主题的采访。
-在AITechPark探索最新的人工智能、物联网、网络安全、人工智能科技新闻以及来自行业专家的见解！
 
 ---
 ---

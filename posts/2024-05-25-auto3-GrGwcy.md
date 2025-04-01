@@ -20,7 +20,6 @@ Lumina AI的专有算法Random Contrast Learning（Lumina RCL）处于这一创�
 
 有关Lumina AI及其参与英特尔起飞计划的更多信息，请访问 www.lumina247.com。如有进一步问题，请联系丹妮拉·迪亚兹。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻以及来自行业专家的深刻更新！
 
 ---
 

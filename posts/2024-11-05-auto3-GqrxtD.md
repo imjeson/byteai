@@ -28,6 +28,5 @@ Terpstra加入ION Group是在ION集团收购Selerity之后，他在Selerity担�
 
 Terpstra补充说：“我要感谢Guy的领导和致力于将ITRS打造成为今天成功公司的过程。我很荣幸有机会延续他的遗产，并带领ITRS走过令人激动的下一个增长篇章。”
 
-探索AITechPark，了解人工智能、物联网、网络安全、AITech新闻的最新进展，以及来自行业专家的见解！
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。

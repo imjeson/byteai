@@ -51,7 +51,6 @@ Stelia-Polar联盟标志着企业人工智能采用的新篇章，提供了简�
 
 要了解有关此合作伙伴关系及如何使您的组织受益的更多信息，请访问www.stelia.io 或联系connect@stelia.io
 
-到AITechPark了解AI、物联网、网络安全、AI技术新闻以及行业专家的深入见解！
 
 ---
 ---

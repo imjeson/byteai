@@ -22,7 +22,6 @@ Berg的AI助手Gemma的问世证明了AI与创意紧密相连
 
 有关西蒙、Ceros、Gemma以及他不断推出的项目的更多信息（以及保持最新状态的即将推出的播客）请访问：simonberg.ai，或在Instagram上关注西蒙@s imonbergsays。
 
-探索AITechPark，了解人工智能、物联网、网络安全、AI科技新闻以及行业专家的深刻见解！
 
 注意：Title、Date、Body 三个部分的内容，放入到对应的位置。最后只需要输出为Markdown源文件格式内容。
 

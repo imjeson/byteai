@@ -22,7 +22,6 @@ Additional Resources:
 - [Register for SingleStore Now](https://events.singlestore.com/singlestore-now-2024)
 - [Try SingleStore for free](https://events.singlestore.com/singlestore-now-2024)
 - Follow SingleStore on [X](#), [LinkedIn](#), and [Instagram](#)
-- Explore AITechPark for the latest advancements in AI, IOT, Cybersecurity, AITech News, and insightful updates from industry experts!
 
 ---
 ---
