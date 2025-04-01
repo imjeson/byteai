@@ -37,7 +37,7 @@ dest_dir="/home/hello/gptnb/source/_posts"
 # 拷贝文件
 for date in "$yesterday" "$current_date" "$tomorrow"
 do
-    find "$source_dir" -type f -name "*${date}.md" -exec cp {} "$dest_dir" \;
+    find "$source_dir" -type f -name "${date}*.md" -exec cp {} "$dest_dir" \;
 done
 
 # 输出完成信息
