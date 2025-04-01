@@ -24,7 +24,7 @@ git push $REMOTE $BRANCH
 
 echo "Changes pushed to $REMOTE/$BRANCH"
 
-
+######################Job 2
 # 获取当前日期、前一天和后一天的日期
 current_date=$(date '+%Y-%m-%d')
 yesterday=$(date -d '-1 day' '+%Y-%m-%d')
@@ -42,3 +42,13 @@ done
 
 # 输出完成信息
 echo "Files copied successfully."
+
+cd /home/hello/gptnb
+
+git add .
+
+# 提交变更
+git commit -m "$COMMIT_MESSAGE"
+
+# 推送到远程仓库
+git push $REMOTE $BRANCH
