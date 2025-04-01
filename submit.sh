@@ -23,3 +23,22 @@ git commit -m "$COMMIT_MESSAGE"
 git push $REMOTE $BRANCH
 
 echo "Changes pushed to $REMOTE/$BRANCH"
+
+
+# 获取当前日期、前一天和后一天的日期
+current_date=$(date '+%Y-%m-%d')
+yesterday=$(date -d '-1 day' '+%Y-%m-%d')
+tomorrow=$(date -d '+1 day' '+%Y-%m-%d')
+
+# 源目录和目标目录
+source_dir="/home/hello/byteai/posts"
+dest_dir="/home/hello/gptnb/source/_posts"
+
+# 拷贝文件
+for date in "$yesterday" "$current_date" "$tomorrow"
+do
+    find "$source_dir" -type f -name "*${date}.md" -exec cp {} "$dest_dir" \;
+done
+
+# 输出完成信息
+echo "Files copied successfully."
