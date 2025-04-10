@@ -7,8 +7,8 @@ author: ByteAILab
 
 文章来源：[直面AI](https://mp.weixin.qq.com/s/hYftBspdZdK3DJ2_YPp7ww)
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/8FD7B96F5E34993C64020C0DB54F4C00/1742449550764/lmsCEt7tKR4KztIWNlzlOBy_-Y2N.png)
-图片来源：由无界AI生成
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/8FD7B96F5E34993C64020C0DB54F4C00/1742449550764/lmsCEt7tKR4KztIWNlzlOBy_-Y2N.png)
+图片来源：由GPTNB生成
 
 北京时间3月19日凌晨，站在圣何塞GTC大会的舞台上，连黄仁勋自己都调侃：GTC是AI届的超级碗。
 
@@ -55,7 +55,7 @@ Llama 3.3非常简单粗暴，回答得很快，只用了439个tokens。但是�
 
 DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终消耗了8559个tokens，才最终给出了答案。时间久，消耗大，但是给出的答案准确。
 
-![图片示例1](https://appserversrc.8btc.cn/FnOjX_22xehY4YEJvtK8mqtGB5MF)
+![图片示例1](http://www.jesonc.com/FnOjX_22xehY4YEJvtK8mqtGB5MF)
 
 而每一个token生成的背后，都是整个模型的加载。推理模型更复杂，也就需要更多地计算。DeepSeek R1的参数规模达到6800亿，下一代有可能达到数万亿参数规模。
 
@@ -67,7 +67,7 @@ DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终
 
 “去年，关于扩展定律Scaling Law，全世界几乎都预测错了。”老黄在台上再次强调。他进一步指出，如今扩展定律从一个变成了三个：预训练、后训练（微调）和推理。
 
-![图片示例2](https://appserversrc.8btc.cn/FkEOtzdIlUx1KDuXRVdTZSYNqzWC)
+![图片示例2](http://www.jesonc.com/FkEOtzdIlUx1KDuXRVdTZSYNqzWC)
 
 那英伟达在推理时代要做什么呢？两方面：一方面，让芯片能在单位时间内处理更多tokens，另一方面，让单位算力的成本和能耗降低。
 
@@ -75,15 +75,15 @@ DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终
 
 以Blackwell和Hopper做对比，都是1兆瓦功耗，Hopper数据中心每秒生成250万tokens。Blackwell数据中心提高了25倍，如果是推理模型，则比Hopper好40倍。
 
-![图片示例3](https://appserversrc.8btc.cn/FkdIWNlU-Iq5Ai4Ogdqk88hkJTLX)
+![图片示例3](http://www.jesonc.com/FkdIWNlU-Iq5Ai4Ogdqk88hkJTLX)
 
 这让图表中出现了一个向上鼓的曲线，这个曲线正是黄仁勋想让各位AI制造商关注的“赚钱要点”。
 
-![图片示例4](https://appserversrc.8btc.cn/FrOvOKCGwuhnmB6cTb6qxbqjahmO)
+![图片示例4](http://www.jesonc.com/FrOvOKCGwuhnmB6cTb6qxbqjahmO)
 
 黄仁勋称，成本是AI输出的token，收益就是用户获得的token。如果纵轴是前者，横轴是后者，横轴扩张更多时——也就是收益比成本扩张更多时——一个漂亮的利润弧线就出现了。
 
-![图片示例5](https://appserversrc.8btc.cn/FprTEfsX2jbYGUi1n-3Ad4t5HWnA)
+![图片示例5](http://www.jesonc.com/FprTEfsX2jbYGUi1n-3Ad4t5HWnA)
 
 为了强调Blackwell是为推理而生这一点，老黄甚至不惜“拉踩”Hopper，称：“当Blackwell开始大量出货的时候，就算你送Hopper，别人基本也不会要的。”
 
@@ -100,7 +100,7 @@ DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终
 
 其中GB300 NVL72在一个机架规模设计中连接了72个Blackwell Ultra芯片，并包含36个基于Arm Neoverse的Grace CPU。较上一代性能提升1.5倍，与Hopper相比收入潜力提高50倍。还是以DeepSeek R1为例，老款Hopper运行这个模型时每秒只能处理100 tokens，而GB300 NVL72每秒能处理1000 tokens。
 
-![图片示例6](https://appserversrc.8btc.cn/FpZ0ecZ-CucJKUdlpYaiCtkARDCY)
+![图片示例6](http://www.jesonc.com/FpZ0ecZ-CucJKUdlpYaiCtkARDCY)
 
 这意味着用户获得回答的速度大大提高。
 
@@ -125,7 +125,7 @@ DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终
 
 用老黄的话说就是“几乎所有细节都是新的”。
 
-![图片示例7](https://appserversrc.8btc.cn/FsvlVD4jHHZ2SfBmXr_rRKBYrf8I)
+![图片示例7](http://www.jesonc.com/FsvlVD4jHHZ2SfBmXr_rRKBYrf8I)
 
 这一代Grace Blackwell（GB）将在今年下半年发货，Vera Rubin将在2026年下半年发货。
 
@@ -135,7 +135,7 @@ DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终
 
 此外，值得注意的是，在演讲一开始，黄仁勋给出了AI的发展路线图，从2012年深度学习突破的起点AlexNet开始，经历Perception AI（感知AI，这个阶段AI主要用于理解数据，如识别语音、图片等）、Generative AI（生成式AI，也就是现阶段的以ChatGPT为代表的技术）。
 
-![图片示例8](https://appserversrc.8btc.cn/FtpzxVMIR6JANfo_iWeuNNAEGQ__)
+![图片示例8](http://www.jesonc.com/FtpzxVMIR6JANfo_iWeuNNAEGQ__)
 
 接下来，已经看到苗头的是Agentic AI（代理AI），从简单的数据生成到执行任务。
 
@@ -147,11 +147,11 @@ DeepSeek R1则反复思考，尝试了很多可能，反复检验答案，最终
 
 舞台上出现了《星球大战》中的小机器人Blue，它在舞台上走来走去、摇头晃脑，看起来充满好奇心，不得不说看起来就非常灵动。
 
-![图片示例9](https://appserversrc.8btc.cn/Fvn7yW6vKh1rM1ZbP_c9TYTSi89y)
+![图片示例9](http://www.jesonc.com/Fvn7yW6vKh1rM1ZbP_c9TYTSi89y)
 
 这个机器人搭载了英伟达Isaac GR00T N1，号称是全球首个开源且完全可定制的人性机器人基础模型。模型包含双系统架构，一个系统负责快思考，另一个负责慢思考。据英伟达介绍，该模型能轻松掌握抓取、移动等复杂人物。
 
-![图片示例10](https://appserversrc.8btc.cn/FmOimFSWI6sAqouWa4scXafrLD3G)
+![图片示例10](http://www.jesonc.com/FmOimFSWI6sAqouWa4scXafrLD3G)
 
 与此同时，黄仁勋还宣布正在与谷歌DeepMind和迪士尼研究院合作下一代开源仿真物理模型Newton，专为机器人开发而生。
 

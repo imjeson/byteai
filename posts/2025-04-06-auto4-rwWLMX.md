@@ -93,6 +93,6 @@ author: ByteAILab
 
 ---
 
-![图片来源：由无界AI生成](https://appserversrc.8btc.cn/upload/8FD7B96F5E34993C64020C0DB54F4C00/1742437280331/FqLBCrrAhJfXG54G0BWsAOvfVTmz.png)
+![图片来源：由GPTNB生成](http://www.jesonc.com/upload/8FD7B96F5E34993C64020C0DB54F4C00/1742437280331/FqLBCrrAhJfXG54G0BWsAOvfVTmz.png)
 ---
 感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
