@@ -34,6 +34,11 @@ tomorrow=$(date -d '+1 day' '+%Y-%m-%d')
 source_dir="/home/hello/byteai/posts"
 dest_dir="/home/hello/gptnb/source/_posts"
 
+# GIT
+cd /home/hello/gptnb
+
+git pull
+
 # 拷贝文件
 for date in "$yesterday" "$current_date" "$tomorrow"
 do
@@ -43,9 +48,6 @@ done
 # 输出完成信息
 echo "Files copied successfully."
 
-cd /home/hello/gptnb
-
-git pull
 
 git add .
 
