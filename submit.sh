@@ -45,6 +45,8 @@ echo "Files copied successfully."
 
 cd /home/hello/gptnb
 
+git pull
+
 git add .
 
 # 提交变更
