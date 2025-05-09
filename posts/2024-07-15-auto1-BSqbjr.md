@@ -1,5 +1,5 @@
 ---
-title: '在线操纵专家Renée DiResta：'阴谋论以极为主流的方式塑造了我们的政治''
+title: '在线操纵专家Renée DiResta：阴谋论以极为主流的方式塑造了我们的政治'
 date: 2024-07-16
 author: ByteAILab
 
