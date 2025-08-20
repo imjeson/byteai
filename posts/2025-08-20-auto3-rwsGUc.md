@@ -1,0 +1,47 @@
+---
+title: 'StackGen收购OpsVerse以提升AI驱动的自主基础设施'
+date: 2025-08-21
+author: ByteAILab
+---
+
+战略收购将Aiden智能AI DevOps助手和关键AI工程人才引入StackGen的自主基础设施平台
+StackGen，自主基础设施技术的先锋，今天宣布收购OpsVerse，一家领先的智能AI驱动的DevOps自动化解决方案提供商。![图片](https://ai-techpark.com/wp-content/uploads/StackGen-Acquires.jpg){ width=60% }
+
+---
+这项收购将OpsVerse的旗舰产品Aiden，一个利用智能AI自动化操作并提供可操作见解的智能DevOps助手，直接纳入StackGen的自主基础设施平台，作为公司扩展AI代理生态系统的核心组成部分。OpsVerse在2025年被列入四个Gartner®热潮周期和一个Gartner®市场指南。
+
+这项战略收购加速了StackGen实现完全自主基础设施的愿景，通过将OpsVerse经过验证的智能AI自动化能力与StackGen现有的AI代理整合。Aiden的智能DevOps自动化将增强StackGen提供自建、自管理、自愈和自优化基础设施的能力，达到企业规模。
+
+“收购OpsVerse标志着我们朝着自主基础设施迈出的关键一步，”StackGen首席执行官Sachin Aggarwal说道。“Aiden的智能AI能力完美补充了我们的AI代理架构，OpsVerse的工程团队带来了在生产DevOps自动化方面的深厚专业知识，将加速我们的平台开发。我们正在构建真正自我运作的基础设施。”
+
+“这标志着StackGen与OpsVerse在DevOps和基础设施自动化领域巨大潜力上的真诚合作，”OpsVerse联合创始人兼首席执行官Arul Jegadish表示。“我们的一般用途DevOps AI能力与StackGen的专业代理和确定性基础层的结合，创造了一个强大的平台，将加速客户的DevOps成功。我们非常高兴能够加入StackGen的自主基础设施使命。”
+
+这次结合旨在建立在OpsVerse已经取得的强大客户参与基础上，吸引了包括Piramal、Snapmint、Corcentric、GreytHR和Orolabs等领先企业和成长阶段公司的客户。“通过团结合作为DevOps团队创造自主基础设施能力，OpsVerse和StackGen正在交付行业一直期待的——自我运作的基础设施。他们的AI代理提供智能、确定性的操作，保持系统健康和弹性，毫无需持续的人为监督，这与手动基础设施管理有着根本的转变。”GreytHR的高级总监Abhishek Gaurav说道。
+
+战略价值与平台整合
+此次收购从多个维度增强了StackGen的自主基础设施平台：
+增强AI代理能力：Aiden的智能AI驱动的自动化将整合到StackGen的AI代理生态系统中，为StackBuilder的基础设施生成、StackHealer的事件修复和StackOptimizer的性能优化提供增强的智能。综合能力将实现更复杂的自主操作，提升决策能力和更快的解决时间。
+
+全面的可观测性解决方案：OpsVerse的ObserveNow产品将作为StackGen平台的一部分继续全面支持，为客户提供易于使用、低成本的可观测性系统，使快速部署和即时价值成为可能。ObserveNow将成为组织开始其自主基础设施之旅的理想切入点，提供与StackGen的AI代理生态系统无缝集成的全面监控能力。
+
+扩展DevOps自动化：OpsVerse在DevOps自动化领域的成功记录带来了额外的自动化能力，将全面嵌入到StackGen的平台中，从开发到生产操作，实现更全面的自主基础设施管理。
+
+工程人才和专业知识：关键的OpsVerse工程人员将加入StackGen，带来在基础设施自动化的智能AI应用方面的深厚领域专业知识。这一工程人才将加速StackGen的产品开发，增强公司在企业规模交付自主基础设施能力的能力。
+
+“OpsVerse构建了卓越的智能AI自动化能力，与我们的自主基础设施愿景完美契合，”StackGen产品首席官Asif Awan表示。“将Aiden整合到我们的AI代理平台中，将为我们的企业客户提供更智能的自动化和更快的价值实现，帮助他们从手动基础设施管理转向自主操作。”
+
+对现有OpsVerse客户的承诺
+StackGen致力于为所有现有OpsVerse客户提供持续的支持和卓越服务。Aiden和ObserveNow将继续获得全面的产品支持，现有客户关系将无缝过渡至StackGen扩展的支持组织。
+
+“我们认识到，OpsVerse的客户在这些平台上建立了关键操作，”Awan表示。“我们的承诺不仅是维护他们所期望的高水平服务，更是通过StackGen的资源和自主基础设施能力来增强服务。这次收购为OpsVerse客户提供了激动人心的机会，可以通过我们全面的平台扩展他们的基础设施自动化之旅。”
+
+OpsVerse联合创始人Nikhil Ravindran将继续在StackGen直接支持OpsVerse客户。“我们的客户是我们所构建的一切的核心。有了StackGen，他们将保持他们所依赖的可信支持，现在将拥有更大的规模和扩展的自动化能力，以简化操作并加速交付。”Nikhil说道。
+
+交易细节和整合时间表
+该收购已完成，结构为资产购买。OpsVerse将作为StackGen产品组织的一部分运营，Aiden将成为StackGen自主基础设施平台的核心组成部分。关键的OpsVerse工程人员将加入StackGen的产品开发团队。
+
+StackGen正在将Aiden的能力整合到其AI代理平台中，增强的GenAI自动化特点将通过公司的现有设计合作伙伴计划和将在2025年下半年宣布的早期访问计划提供给StackGen客户。
+
+“这项收购标志着我们成长的下一个阶段，因为我们朝着真正的自主基础设施迈进，”Aggarwal表示。“OpsVerse经过验证的智能AI自动化能力和才华横溢的工程团队将帮助我们更快地实现愿景，同时为我们的企业客户提供即时价值。”
+---
+感谢阅读！如果您对AI的更多资讯感兴趣，可以查看更多AI文章：[GPTNB](https://gptnb.com)。
